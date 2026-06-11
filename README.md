@@ -2,49 +2,59 @@
 
 - **Players:** Chris + Glenn
 - **Mode:** co-operative, Ascension 10+ (wins at A10 or higher count)
-- **Goal:** win with all 15 unordered character pairs (mirrors count)
+- **Goal:** win with all 25 ordered character combos (who plays what matters; mirrors are a single combo)
 - **Roster (5):** Ironclad, Silent, Defect, Necrobinder, Regent
-- **Combos won:** 5 / 15
+- **Combos won:** 5 / 25
 - **Last updated:** 2026-06-11
 
 ## Combo matrix
 
-Win counts per pair. Pairs are unordered, so only the upper triangle is used; blank = not yet won.
+Win counts per combo. Rows = Chris's character, columns = Glenn's character, so Chris-Defect + Glenn-Ironclad is a different combo from Chris-Ironclad + Glenn-Defect. Blank = not yet won.
 
-|             | Ironclad | Silent | Defect | Necrobinder | Regent |
-| ----------- | -------- | ------ | ------ | ----------- | ------ |
-| Ironclad    |          |        | 1      | 1           |        |
-| Silent      | ·        |        |        |             |        |
-| Defect      | ·        | ·      |        |             |        |
-| Necrobinder | ·        | ·      | ·      | 1           | 1      |
-| Regent      | ·        | ·      | ·      | ·           | 1      |
+| Chris \ Glenn | Ironclad | Silent | Defect | Necrobinder | Regent |
+| ------------- | -------- | ------ | ------ | ----------- | ------ |
+| Ironclad      |          |        |        |             |        |
+| Silent        |          |        |        |             |        |
+| Defect        | 1        |        |        |             |        |
+| Necrobinder   | 1        |        |        | 1           | 1      |
+| Regent        |          |        |        |             | 1      |
 
-## Combos remaining (10 of 15)
+## Combos remaining (20 of 25)
 
-- Ironclad + Ironclad
-- Ironclad + Silent
-- Ironclad + Regent
-- Silent + Silent
-- Silent + Defect
-- Silent + Necrobinder
-- Silent + Regent
-- Defect + Defect
-- Defect + Necrobinder
-- Defect + Regent
+- Chris Ironclad + Glenn Ironclad
+- Chris Ironclad + Glenn Silent
+- Chris Ironclad + Glenn Defect
+- Chris Ironclad + Glenn Necrobinder
+- Chris Ironclad + Glenn Regent
+- Chris Silent + Glenn Ironclad
+- Chris Silent + Glenn Silent
+- Chris Silent + Glenn Defect
+- Chris Silent + Glenn Necrobinder
+- Chris Silent + Glenn Regent
+- Chris Defect + Glenn Silent
+- Chris Defect + Glenn Defect
+- Chris Defect + Glenn Necrobinder
+- Chris Defect + Glenn Regent
+- Chris Necrobinder + Glenn Silent
+- Chris Necrobinder + Glenn Defect
+- Chris Regent + Glenn Ironclad
+- Chris Regent + Glenn Silent
+- Chris Regent + Glenn Defect
+- Chris Regent + Glenn Necrobinder
 
 ## Stats
 
 - Wins logged: 5
-- Combos won: 5 / 15
-- Per-character wins (a mirror win counts twice for that character):
+- Combos won: 5 / 25
+- Per-character wins by player (a mirror win counts once for each player):
 
-| Character   | Wins |
-| ----------- | ---- |
-| Ironclad    | 2    |
-| Silent      | 0    |
-| Defect      | 1    |
-| Necrobinder | 4    |
-| Regent      | 3    |
+| Character   | Chris | Glenn | Total |
+| ----------- | ----- | ----- | ----- |
+| Ironclad    | 0     | 2     | 2     |
+| Silent      | 0     | 0     | 0     |
+| Defect      | 1     | 0     | 1     |
+| Necrobinder | 3     | 1     | 4     |
+| Regent      | 1     | 2     | 3     |
 
 ## Win log (source of truth)
 
