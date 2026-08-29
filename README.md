@@ -1,4 +1,4 @@
-Y# Slay the Spire 2 - Co-op Win Tracker
+# Slay the Spire 2 - Co-op Win Tracker
 
 - **Players:** Chris + Glenn
 - **Mode:** co-operative, Ascension 10 (every run; only A10 wins count)
@@ -84,7 +84,10 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | Deck size / relics | 26 / 24 | 28 / 17 |
 | Badges | Elite Killer, Rainin' Money | Damage Leader, Debuffer, Elite Killer, Rainin' Money |
 
-**Chris's Defect: 26 cards, 24 relics, floor by floor** (🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss)
+<details>
+<summary><b>Chris's Defect</b>: 26 cards, 24 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
 
 | Floor | HP | Card | Effect | | Relic | Effect |
 | - | - | - | - | - | - | - |
@@ -141,7 +144,12 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | 45 👑 Test Subject | 62/88 |  |  | |  |  |
 | 46 👑 Aeonglass | 37/88 |  |  | |  |  |
 
-**Glenn's Defect: 28 cards, 17 relics, floor by floor** (🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss)
+</details>
+
+<details>
+<summary><b>Glenn's Defect</b>: 28 cards, 17 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
 
 | Floor | HP | Card | Effect | | Relic | Effect |
 | - | - | - | - | - | - | - |
@@ -203,6 +211,8 @@ Date is the day the run was finished. Run time is the game's own clock where the
 
 </details>
 
+</details>
+
 <details>
 <summary><b>#10 · 2026-08-18 · Chris Regent + Glenn Ironclad · 2h59m · seed L0TP1S65D9B2</b></summary>
 
@@ -222,7 +232,10 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | Deck size / relics | 25 / 18 | 31 / 17 |
 | Badges | Debuffer, Elite Killer, Stuffed | Damage Leader, Elite Killer, Well Fed |
 
-**Chris's Regent: 25 cards, 18 relics, floor by floor** (🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss)
+<details>
+<summary><b>Chris's Regent</b>: 25 cards, 18 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
 
 | Floor | HP | Card | Effect | | Relic | Effect |
 | - | - | - | - | - | - | - |
@@ -277,7 +290,12 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | 45 👑 Torch Head Amalgam + Queen | 55/109 |  |  | |  |  |
 | 46 👑 Aeonglass | 31/110 |  |  | |  |  |
 
-**Glenn's Ironclad: 31 cards, 17 relics, floor by floor** (🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss)
+</details>
+
+<details>
+<summary><b>Glenn's Ironclad</b>: 31 cards, 17 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
 
 | Floor | HP | Card | Effect | | Relic | Effect |
 | - | - | - | - | - | - | - |
@@ -331,6 +349,8 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | 44 🔥 | 75/107 |  |  | |  |  |
 | 45 👑 Torch Head Amalgam + Queen | 44/108 |  |  | |  |  |
 | 46 👑 Aeonglass | 8/109 |  |  | |  |  |
+
+</details>
 
 </details>
 
