@@ -60,8 +60,8 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | 7 | 2026-06-20 | Ironclad | Necrobinder | 3h10m | third attempt that night |
 | 8 | 2026-07-07 | Ironclad | Ironclad | 2h10m | |
 | 9 | 2026-07-26 | Silent | Silent | 2h23m | |
-| 10 | 2026-08-18 | Regent | Ironclad | 2h59m | see run details |
-| 11 | 2026-08-23 | Defect | Defect | 2h37m | see run details |
+| 10 | 2026-08-18 | Regent | Ironclad | 2h59m | second run of the day |
+| 11 | 2026-08-23 | Defect | Defect | 2h37m | |
 
 ## Run details
 
@@ -349,6 +349,737 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | 44 🔥 | 75/107 |  |  | |  |  |
 | 45 👑 Torch Head Amalgam + Queen | 44/108 |  |  | |  |  |
 | 46 👑 Aeonglass | 8/109 |  |  | |  |  |
+
+</details>
+
+</details>
+
+<details>
+<summary><b>#9 · 2026-07-26 · Chris Silent + Glenn Silent · 2h23m · seed QAZACJ28FC0S</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Overgrowth | Bygone Effigy, Phrog Parasite + Wriggler, Byrdonis | Ceremonial Beast |
+| 2. Hive | Entomancer, Decimillipede | Crusher + Rocket |
+| 3. Glory | Flail Knight + Spectral Knight + Magi Knight, Mecha Knight | Torch Head Amalgam + Queen → Aeonglass |
+
+| | Chris (Silent) | Glenn (Silent) |
+| - | - | - |
+| End HP | 57 / 80 | 11 / 85 |
+| Damage taken / healed | 259 / 316 | 367 / 378 |
+| Gold spent | 1023 | 250 |
+| Card rewards: picked / skipped | 14 / 9 | 18 / 5 |
+| Cards removed | 5 | 5 |
+| Deck size / relics | 31 / 19 | 35 / 21 |
+| Badges | Damage Leader, Elite Killer, Highlander, Ka-Ching! | C-c-c-Combo, Debuffer, Elite Killer, Well Fed |
+
+<details>
+<summary><b>Chris's Silent</b>: 31 cards, 19 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×3, Defend+ ×2, Neutralize+, Strike ×2, Survivor | starter cards | | Ring of the Snake | starter relic |
+| 1 🗿 | 56/70 | Greed |  | | Cursed Pearl | Upon pickup, receive Greed. Gain X Gold. |
+| 2 ⚔️ | 55/70 |  |  | |  |  |
+| 3 ⚔️ | 45/70 |  |  | |  |  |
+| 4 ⚔️ | 43/70 | Blade Dance | Add X Shivs into your Hand. | |  |  |
+| 5 ⚔️ | 29/70 |  |  | |  |  |
+| 6 💰 | 29/70 | Infinite Blades | At the start of your turn, add 1 Shiv into your Hand. | | The Abacus | Whenever you shuffle your Draw Pile, gain X Block. |
+| 7 🔥 | 50/70 |  |  | |  |  |
+| 8 💀 Bygone Effigy | 47/70 | Dodge and Roll+ | Gain X Block. Next turn, gain X Block. | | Regal Pillow | Whenever you Rest, heal an additional X HP. |
+| 9 🎁 | 47/70 |  |  | | Bag of Preparation | At the start of each combat, draw X additional cards. |
+| 10 💀 Phrog Parasite + Wriggler | 34/70 | Dagger Throw | Deal X damage. Draw 1 card. Discard 1 card. | | Beating Remnant | You cannot lose more than 20 HP in a single turn. |
+| 11 ❓ | 54/70 |  |  | |  |  |
+| 12 🔥 | 54/70 |  |  | |  |  |
+| 13 💀 Byrdonis | 41/70 |  |  | | Festive Popper | At the start of each combat, deal X damage to ALL enemies. |
+| 14 ❓ | 41/70 |  |  | | Sword of Stone | Transforms into a powerful Relic after defeating X Elites. |
+| 15 🔥 | 41/70 |  |  | |  |  |
+| 16 👑 Ceremonial Beast | 6/70 | Blade of Ink | Add X Inky Shivs into your Hand. | |  |  |
+| 17 🗿 | 57/70 |  |  | | Pael's Claw | Upon pickup, Enchant all Defends with X. |
+| 18 ⚔️ | 53/70 | Calculated Gamble | Discard your Hand, then draw that many cards. | |  |  |
+|  |  | Hidden Daggers+ | Discard X cards. Add X into your Hand. | |  |  |
+| 19 💰 | 53/70 | Acrobatics+ | Draw X cards. Discard 1 card. | |  |  |
+| 20 ⚔️ | 53/70 | Backflip | Gain X Block. Draw 2 cards. | |  |  |
+| 21 ⚔️ | 41/70 | Blade Symphony+ | Add X Shivs to ALL players' Hands. | |  |  |
+| 22 ❓ | 27/70 |  |  | | The Chosen Cheese | At the end of combat, gain X Max HP. |
+| 23 💀 Entomancer | 2/71 | Accuracy | Shivs deal X additional damage. | | Intimidating Helmet | Whenever you play a card that costs energy or more, gain X Block. |
+| 24 🎁 | 2/71 |  |  | | Pen Nib | Every 10th Attack you play deals double damage. |
+| 25 ❓ | 2/71 | Doubt | At the end of your turn, if this is in your Hand, gain X Weak. | | Tiny Mailbox | Whenever you Rest, procure 2 random Potions. |
+| 26 🔥 | 38/71 |  |  | |  |  |
+| 27 💀 Decimillipede | 30/72 | Tactician | Gain energy. | | Cloak Clasp | At the end of your turn, gain X Block for each card in your Hand. |
+| 28 ⚔️ | 27/73 |  |  | |  |  |
+| 29 ❓ | 27/73 |  |  | |  |  |
+| 30 🔥 | 63/73 |  |  | |  |  |
+| 31 👑 Crusher + Rocket | 4/74 | Sneaky+ | Whenever another player attacks an enemy, gain X Block. | |  |  |
+| 32 🗿 | 60/74 |  |  | | Brilliant Scarf | The 5th card you play from your hand each turn is free. |
+| 33 ⚔️ | 61/75 |  |  | |  |  |
+| 34 ❓ | 61/75 |  |  | |  |  |
+| 35 ❓ | 61/75 | Noxious Fumes | At the start of your turn, apply X Poison to ALL enemies. | |  |  |
+| 36 ❓ | 61/75 |  |  | |  |  |
+| 37 ❓ | 61/75 |  |  | | Venerable Tea Set | Whenever you enter a Rest Site, start the next combat with an additional energy. |
+| 38 🎁 | 61/75 |  |  | | Kusarigama | Every time you play X Attacks in a single turn, deal X damage to a random enemy. |
+| 39 💀 Flail Knight + Spectral Knight + Magi Knight | 56/76 | Leg Sweep+ | Apply X Weak. Gain X Block. | | Vajra | Start each combat with X Strength. |
+| 40 ⚔️ | 57/77 | Reflex | Draw X cards. | |  |  |
+| 41 🔥 | 57/77 |  |  | |  |  |
+| 42 💰 | 57/77 | Fisticuffs | Deal X damage. Gain Block equal to damage dealt. | |  |  |
+|  |  | Footwork | Gain X Dexterity. | |  |  |
+| 43 💀 Mecha Knight | 51/78 | Finisher | Deal X damage for each Attack already played this turn. | | Blood Vial | At the start of each combat, heal X HP. |
+| 44 🔥 | 78/78 |  |  | |  |  |
+| 45 👑 Torch Head Amalgam + Queen | 60/79 |  |  | |  |  |
+| 46 👑 Aeonglass | 57/80 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Silent</b>: 35 cards, 21 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×4, Defend+, Neutralize, Strike+, Strike ×2, Survivor | starter cards | | Ring of the Snake | starter relic |
+| 1 🗿 | 56/70 |  |  | | Neow's Sacrifice | Upon pickup, procure 1 Ambergris and add 1 Guilty to your Deck. |
+| 2 ⚔️ | 55/70 | Prepared | Draw X cards. Discard X cards. | |  |  |
+| 3 ⚔️ | 50/70 | Blade Symphony+ | Add X Shivs to ALL players' Hands. | |  |  |
+| 4 ⚔️ | 49/70 | Prepared | Draw X cards. Discard X cards. | |  |  |
+| 5 ⚔️ | 39/70 | Scare |  | |  |  |
+| 6 💰 | 39/70 | Bouncing Flask | Apply X Poison to a random enemy X times. | |  |  |
+| 7 🔥 | 60/70 |  |  | |  |  |
+| 8 💀 Bygone Effigy | 45/77 | Piercing Wail | ALL enemies lose X Strength this turn. | | Strawberry | Upon pickup, raise your Max HP by X. |
+| 9 🎁 | 45/77 |  |  | | White Star | Elites drop an additional Rare card reward. |
+| 10 💀 Phrog Parasite + Wriggler | 21/77 | Abrasive+ | Gain X Dexterity. Gain X Thorns. | | Centennial Puzzle | The first time you lose HP each combat, draw X cards. |
+|  |  | Fan of Knives | Shivs now hit ALL enemies. Add X Shivs into your Hand. | |  |  |
+| 11 ❓ | 41/77 |  |  | |  |  |
+| 12 🔥 | 41/77 |  |  | |  |  |
+| 13 💀 Byrdonis | 18/77 | Sneaky+ | Whenever another player attacks an enemy, gain X Block. | | Blood Vial | At the start of each combat, heal X HP. |
+| 14 ❓ | 11/77 |  |  | |  |  |
+| 15 🔥 | 34/77 |  |  | |  |  |
+| 16 👑 Ceremonial Beast | 55/77 | Afterimage | Whenever you play a card, gain X Block. | |  |  |
+| 17 🗿 | 72/77 |  |  | | Pael's Wing | You may sacrifice card rewards to Pael. Every X sacrifices, obtain a Relic. |
+| 18 ⚔️ | 61/77 | Blade Dance+ | Add X Shivs into your Hand. | |  |  |
+|  |  | Hand Trick | Gain X Block. Add Sly to a Skill in your Hand this turn. | |  |  |
+| 19 💰 | 61/77 | Expose | Remove all Artifact and Block from the enemy. Apply X Vulnerable. | |  |  |
+|  |  | Footwork | Gain X Dexterity. | |  |  |
+| 20 ⚔️ | 49/77 |  |  | |  |  |
+| 21 ⚔️ | 51/77 |  |  | | Pendulum | Every X turns, draw X cards. |
+| 22 ❓ | 37/77 |  |  | | The Chosen Cheese | At the end of combat, gain X Max HP. |
+| 23 💀 Entomancer | 2/78 | Noxious Fumes+ | At the start of your turn, apply X Poison to ALL enemies. | | Juzu Bracelet | Regular enemy combats are no longer encountered in ? rooms. |
+|  |  | Well-Laid Plans | At the end of your turn, you no longer discard your Hand. | |  |  |
+| 24 🎁 | 2/78 |  |  | | Lizard Tail | When your HP would be reduced to 0, heal to X% of your Max HP instead (works once). |
+| 25 ❓ | 2/78 |  |  | | War Paint | Upon pickup, Upgrade X random Skills. |
+| 26 🔥 | 25/78 |  |  | |  |  |
+| 27 💀 Decimillipede | 21/79 | Master Planner | When you play a Skill, it gains Sly. | | Red Mask | At the start of each combat, apply X Weak to ALL enemies. |
+| 28 ⚔️ | 4/80 |  |  | | Vajra | Start each combat with X Strength. |
+| 29 ❓ | 4/80 |  |  | |  |  |
+| 30 🔥 | 28/80 |  |  | |  |  |
+| 31 👑 Crusher + Rocket | 41/81 | Adrenaline | Gain energy. Draw 2 cards. | |  |  |
+| 32 🗿 | 73/81 |  |  | | Brilliant Scarf | The 5th card you play from your hand each turn is free. |
+| 33 ⚔️ | 66/80 |  |  | |  |  |
+| 34 ❓ | 66/80 |  |  | | Lantern | Start each combat with an additional energy. |
+| 35 ❓ | 66/80 | Speedster | Whenever you draw a card during your turn, deal X damage to ALL enemies. | |  |  |
+| 36 ❓ | 66/80 |  |  | |  |  |
+| 37 ❓ | 66/80 |  |  | | Chandelier | At the start of your 3rd turn, gain energy. |
+| 38 🎁 | 66/80 |  |  | | Eternal Feather | For every X cards in your Deck, heal X HP whenever you enter a Rest Site. |
+| 39 💀 Flail Knight + Spectral Knight + Magi Knight | 54/81 | Expose | Remove all Artifact and Block from the enemy. Apply X Vulnerable. | | Akabeko | At the start of each combat, gain X Vigor. |
+|  |  | Knife Trap+ | every Shiv in your Exhaust Pile on the enemy. | |  |  |
+| 40 ⚔️ | 56/82 | Up My Sleeve | Add X Shivs into your Hand. Reduce this card's cost by 1. | |  |  |
+| 41 🔥 | 74/82 |  |  | |  |  |
+| 42 💰 | 74/82 | Piercing Wail | ALL enemies lose X Strength this turn. | |  |  |
+| 43 💀 Mecha Knight | 54/83 | Murder | Deal X damage. Deals X additional damage for each card drawn this combat. | | Potion Belt | Upon pickup, gain X potion slots. |
+|  |  |  |  | | Rainbow Ring | The first time you play an Attack, Skill, and Power each turn, gain X Strength and X Dexterity. |
+| 44 🔥 | 75/83 |  |  | |  |  |
+| 45 👑 Torch Head Amalgam + Queen | 33/84 |  |  | |  |  |
+| 46 👑 Aeonglass | 11/85 |  |  | |  |  |
+
+</details>
+
+</details>
+
+<details>
+<summary><b>#8 · 2026-07-07 · Chris Ironclad + Glenn Ironclad · 2h10m · seed 8HF39581FH</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Overgrowth | Phrog Parasite + Wriggler, Byrdonis | Vantom |
+| 2. Hive | Entomancer | The Insatiable |
+| 3. Glory | Mecha Knight, Soul Nexus | Aeonglass → Torch Head Amalgam + Queen |
+
+| | Chris (Ironclad) | Glenn (Ironclad) |
+| - | - | - |
+| End HP | 34 / 81 | 65 / 65 |
+| Damage taken / healed | 344 / 378 | 388 / 453 |
+| Gold spent | 617 | 450 |
+| Card rewards: picked / skipped | 17 / 7 | 16 / 7 |
+| Cards removed | 5 | 6 |
+| Deck size / relics | 34 / 16 | 29 / 15 |
+| Badges | Damage Leader, Elite Hunter | Debuffer, Elite Hunter |
+
+<details>
+<summary><b>Chris's Ironclad</b>: 34 cards, 16 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Bash, Defend ×2, Strike | starter cards | | Burning Blood | starter relic |
+| 1 🗿 | 64/80 | Unmovable+ | The first time you gain Block from a card each turn, double the amount gained. | | Neow's Bones | Upon pickup, gain X random Neow Relics. Add X random Curses to your Deck. |
+|  |  |  |  | | Arcane Scroll | Upon pickup, obtain a random Rare Card to add to your Deck. |
+|  |  |  |  | | Booming Conch | At the start of Elite combats, draw X additional cards and gain energy. |
+| 2 ⚔️ | 68/80 | Feel No Pain+ | Whenever a card is Exhausted, gain X Block. | |  |  |
+| 3 ❓ | 63/80 |  |  | |  |  |
+| 4 ⚔️ | 60/80 | Rupture+ | Whenever you lose HP on your turn, gain X Strength. | |  |  |
+| 5 ⚔️ | 63/80 | Bloodletting+ | Lose X HP. Gain energy. | |  |  |
+| 6 ⚔️ | 49/80 | True Grit+ | Gain X Block. Exhaust 1 card. | |  |  |
+| 7 🔥 | 49/80 |  |  | |  |  |
+| 8 💀 Phrog Parasite + Wriggler | 39/80 | Blood Wall | Lose X HP. Gain X Block. | | Sparkling Rouge | At the start of your 3rd turn, gain X Strength and X Dexterity. |
+| 9 🎁 | 39/80 |  |  | | Game Piece | Whenever you play a Power, draw X cards. |
+| 10 ❓ | 30/80 | Fight Me! | Deal X damage twice. Gain X Strength. The enemy gains X Strength. | |  |  |
+| 11 🔥 | 54/80 |  |  | |  |  |
+| 12 💰 | 54/80 |  |  | |  |  |
+| 13 ❓ | 63/80 |  |  | |  |  |
+| 14 💀 Byrdonis | 58/80 | Inferno | At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal X damage to ALL enemies. | | Ice Cream | Energy is now conserved between turns. |
+| 15 🔥 | 58/80 |  |  | |  |  |
+| 16 👑 Vantom | 13/80 | Tear Asunder | Deal X damage. Hits an additional time for each time you lost HP this combat. | |  |  |
+| 17 🗿 | 66/80 |  |  | | Radiant Pearl | At the start of each combat, add X Luminesces into your Hand. |
+| 18 ⚔️ | 60/80 | Splash+ | Choose 1 of 3 random Attacks from another character to add into your Hand. It's free to play this turn. | |  |  |
+| 19 ⚔️ | 59/80 |  |  | |  |  |
+| 20 ⚔️ | 50/80 | Burning Pact | Exhaust 1 card. Draw X cards. | |  |  |
+| 21 ⚔️ | 42/80 | Inferno | At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal X damage to ALL enemies. | |  |  |
+| 22 💰 | 42/80 |  |  | |  |  |
+| 23 🔥 | 42/80 |  |  | |  |  |
+| 24 🎁 | 42/80 |  |  | | Eternal Feather | For every X cards in your Deck, heal X HP whenever you enter a Rest Site. |
+| 25 🔥 | 54/80 |  |  | |  |  |
+| 26 ❓ | 48/80 |  |  | |  |  |
+| 27 💀 Entomancer | 50/90 |  |  | | Pear | Upon pickup, raise your Max HP by X. |
+| 28 ❓ | 50/90 | BEGONE! | Choose a card in your Hand to Transform into. | |  |  |
+|  |  | GUARDS!!! | Transform any number of cards in your Hand into. | |  |  |
+|  |  | Pale Blue Dot+ | If you play X or more cards in a turn, draw X cards at the start of your next turn. | |  |  |
+| 29 ❓ | 50/90 | Ultimate Defend | Gain X Block. | |  |  |
+| 30 🔥 | 62/90 |  |  | |  |  |
+| 31 👑 The Insatiable | 42/90 | Cascade | Play the top X cards of your Draw Pile. | |  |  |
+| 32 🗿 | 80/81 | Apparition ×3 | Gain X Intangible. | | Distinguished Cape | Upon pickup, add X random Curses and X Apparitions to your Deck. |
+| 33 ⚔️ | 76/81 | Demonic Shield | Lose X HP. Give another player Block equal to your Block. | |  |  |
+| 34 ⚔️ | 72/81 | True Grit+ | Gain X Block. Exhaust 1 card. | |  |  |
+| 35 ❓ | 72/81 | Blood Wall | Lose X HP. Gain X Block. | |  |  |
+|  |  | Doubt | At the end of your turn, if this is in your Hand, gain X Weak. | |  |  |
+|  |  | Tear Asunder | Deal X damage. Hits an additional time for each time you lost HP this combat. | |  |  |
+| 36 ⚔️ | 63/81 | Stone Armor+ | Gain X Plating. | |  |  |
+| 37 💰 | 63/81 | Automation | Every 10 cards you draw, gain energy. | | Joss Paper | Every X times you Exhaust a card, draw X cards. |
+| 38 🎁 | 63/81 |  |  | | Cloak Clasp | At the end of your turn, gain X Block for each card in your Hand. |
+| 39 ❓ | 63/81 |  |  | | Horn Cleat | At the start of your 2nd turn, gain X Block. |
+| 40 💀 Mecha Knight | 54/81 | True Grit+ | Gain X Block. Exhaust 1 card. | | Bag of Preparation | At the start of each combat, draw X additional cards. |
+| 41 🔥 | 72/81 |  |  | |  |  |
+| 42 💰 | 72/81 |  |  | |  |  |
+| 43 💀 Soul Nexus | 56/81 | Stampede+ | At the end of your turn, X random Attacks in your Hand are played against random enemies. | | Happy Flower | Every X turns, gain energy. |
+| 44 🔥 | 74/81 |  |  | |  |  |
+| 45 👑 Aeonglass | 61/81 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen | 34/81 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Ironclad</b>: 29 cards, 15 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Bash, Defend ×4, CHARGE!! | starter cards | | - | starter relic |
+| 1 🗿 | 64/80 |  |  | | Silken Tress | Upon pickup, lose all Gold. Enchant all cards in your first card reward with Glam. |
+| 2 ⚔️ | 66/80 | Breakthrough+ | Lose X HP. Deal X damage to ALL enemies. | |  |  |
+| 3 ❓ | 66/80 | Colossus | Gain X Block. You receive 50% less damage from Vulnerable enemies this turn. | |  |  |
+| 4 ⚔️ | 65/80 | Bloodletting | Lose X HP. Gain energy. | |  |  |
+| 5 ⚔️ | 66/80 | Burning Pact | Exhaust 1 card. Draw X cards. | |  |  |
+| 6 ⚔️ | 29/80 |  |  | |  |  |
+| 7 🔥 | 53/80 |  |  | |  |  |
+| 8 💀 Phrog Parasite + Wriggler | 14/80 | Crimson Mantle+ | At the start of your turn, lose 1 HP and gain X Block. | | Juzu Bracelet | Regular enemy combats are no longer encountered in ? rooms. |
+| 9 🎁 | 14/80 |  |  | | Gorget | At the start of each combat, gain X Plating. |
+| 10 ❓ | 5/80 | Tear Asunder | Deal X damage. Hits an additional time for each time you lost HP this combat. | |  |  |
+| 11 🔥 | 29/80 |  |  | |  |  |
+| 12 💰 | 29/80 |  |  | |  |  |
+| 13 ❓ | 38/80 |  |  | |  |  |
+| 14 💀 Byrdonis | 42/80 | Aggression | At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it. | | Lucky Fysh | Whenever you add a card to your Deck, gain X Gold. |
+| 15 🔥 | 42/80 |  |  | |  |  |
+| 16 👑 Vantom | 7/80 | Brand+ | Lose X HP. Exhaust 1 card. Gain X Strength. | |  |  |
+| 17 🗿 | 65/80 |  |  | | Black Blood | At the end of combat, heal X HP. |
+|  |  |  |  | | Touch of Orobas | Upon pickup, replace X. |
+| 18 ⚔️ | 67/80 | Dominate+ | Apply X Vulnerable. Gain X Strength for each Vulnerable on the enemy. | |  |  |
+| 19 ⚔️ | 74/80 | Flame Barrier+ | Gain X Block. Whenever you are attacked this turn, deal X damage back. | |  |  |
+| 20 ⚔️ | 66/80 | Colossus+ | Gain X Block. You receive 50% less damage from Vulnerable enemies this turn. | |  |  |
+| 21 ⚔️ | 60/80 | Evil Eye | Gain X Block. Gain another X Block if you have Exhausted a card this turn. | |  |  |
+| 22 💰 | 60/80 |  |  | |  |  |
+| 23 🔥 | 60/80 |  |  | |  |  |
+| 24 🎁 | 60/80 |  |  | | Oddly Smooth Stone | Start each combat with X Dexterity. |
+| 25 🔥 | 60/80 |  |  | |  |  |
+| 26 ❓ | 60/80 |  |  | | Venerable Tea Set | Whenever you enter a Rest Site, start the next combat with an additional energy. |
+| 27 💀 Entomancer | 55/80 | Stampede | At the end of your turn, X random Attacks in your Hand are played against random enemies. | | Vajra | Start each combat with X Strength. |
+| 28 ❓ | 55/80 | GUARDS!!!+ | Transform any number of cards in your Hand into. | |  |  |
+| 29 ❓ | 55/80 | Ultimate Strike | Deal X damage. | |  |  |
+| 30 🔥 | 55/80 |  |  | |  |  |
+| 31 👑 The Insatiable | 21/80 | Mangle | Deal X damage. Enemy loses X Strength this turn. | |  |  |
+| 32 🗿 | 68/71 | Apparition ×2 | Gain X Intangible. | | Distinguished Cape | Upon pickup, add X random Curses and X Apparitions to your Deck. |
+|  |  | Apparition+ | Gain X Intangible. | |  |  |
+| 33 ⚔️ | 44/65 |  |  | |  |  |
+| 34 ⚔️ | 45/65 |  |  | |  |  |
+| 35 ❓ | 55/65 |  |  | |  |  |
+| 36 ⚔️ | 59/65 | Blood Wall | Lose X HP. Gain X Block. | |  |  |
+| 37 💰 | 59/65 |  |  | | Burning Sticks | The first time each combat you Exhaust a Skill, add a copy of it into your Hand. |
+| 38 🎁 | 59/65 |  |  | | Blood Vial | At the start of each combat, heal X HP. |
+| 39 ❓ | 59/65 |  |  | | Anchor | Start each combat with X Block. |
+| 40 💀 Mecha Knight | 38/65 | Tremble | Apply X Vulnerable. | | Nunchaku | Every time you play X Attacks, gain energy. |
+| 41 🔥 | 38/65 |  |  | |  |  |
+| 42 💰 | 38/65 |  |  | |  |  |
+| 43 💀 Soul Nexus | 45/65 | Cruelty | Vulnerable enemies take an additional X% damage. | | Unceasing Top | Whenever you have no cards in Hand during your turn, draw a card. |
+| 44 🔥 | 64/65 |  |  | |  |  |
+| 45 👑 Aeonglass | 65/65 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen | 65/65 |  |  | |  |  |
+
+</details>
+
+</details>
+
+<details>
+<summary><b>#7 · 2026-06-20 · Chris Ironclad + Glenn Necrobinder · 3h10m · seed L2BP0ES5KE</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Underdocks | Phantasmal Gardener + Osty, Skulking Colony + Osty | Lagavulin Matriarch + Osty |
+| 2. Hive | Infested Prism + Osty, Decimillipede + Osty, Entomancer + Osty | Crusher + Rocket + Osty |
+| 3. Glory | Flail Knight + Spectral Knight + Magi Knight + Osty, Soul Nexus + Osty | Aeonglass + Osty → Torch Head Amalgam + Queen + Osty |
+
+| | Chris (Ironclad) | Glenn (Necrobinder) |
+| - | - | - |
+| End HP | 13 / 79 | 1 / 77 |
+| Damage taken / healed | 333 / 346 | 383 / 384 |
+| Gold spent | 528 | 100 |
+| Card rewards: picked / skipped | 17 / 9 | 18 / 8 |
+| Cards removed | 2 | 9 |
+| Deck size / relics | 35 / 18 | 30 / 17 |
+| Badges | Damage Leader, Elite Killer | Debuffer, Elite Killer, Money Money |
+
+<details>
+<summary><b>Chris's Ironclad</b>: 35 cards, 18 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Bash, Defend ×3, Defend+, Strike ×2 | starter cards | | Burning Blood | starter relic |
+| 1 🗿 | 64/80 |  |  | | Fishing Rod | Every X normal combats, Upgrade a random card in your Deck. |
+| 2 ⚔️ | 63/80 | Iron Wave | Gain X Block. Deal X damage. | |  |  |
+| 3 ⚔️ | 61/80 | True Grit+ | Gain X Block. Exhaust 1 card. | |  |  |
+| 4 ⚔️ | 65/80 | Rampage+ | Deal X damage. Increase this card's damage by X this combat. | |  |  |
+| 5 ⚔️ | 70/80 | Flame Barrier | Gain X Block. Whenever you are attacked this turn, deal X damage back. | |  |  |
+| 6 ⚔️ | 80/80 | Body Slam+ | Deal damage equal to your Block. | |  |  |
+| 7 🔥 | 80/80 |  |  | |  |  |
+| 8 💀 Phantasmal Gardener + Osty | 56/80 |  |  | | Potion Belt | Upon pickup, gain X potion slots. |
+| 9 🎁 | 56/80 |  |  | | Centennial Puzzle | The first time you lose HP each combat, draw X cards. |
+| 10 💰 | 56/80 | True Grit+ | Gain X Block. Exhaust 1 card. | | Happy Flower | Every X turns, gain energy. |
+| 11 🔥 | 56/80 |  |  | |  |  |
+| 12 💀 Skulking Colony + Osty | 50/80 | Brand+ | Lose X HP. Exhaust 1 card. Gain X Strength. | | Joss Paper | Every X times you Exhaust a card, draw X cards. |
+| 13 ⚔️ | 47/80 | Taunt+ | Gain X Block. Apply X Vulnerable. | |  |  |
+| 14 ❓ | 42/80 | Dark Shackles | Enemy loses X Strength this turn. | |  |  |
+| 15 🔥 | 42/80 |  |  | |  |  |
+| 16 👑 Lagavulin Matriarch + Osty | 18/80 | Aggression | At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it. | |  |  |
+| 17 🗿 | 67/80 | Dark Embrace+ | Whenever a card is Exhausted, draw 1 card. | | Astrolabe | Upon pickup, Transform X cards, then Upgrade them. |
+|  |  | Pact's End+ | If you have X or more cards in your Exhaust Pile, deal X damage to ALL enemies. | |  |  |
+|  |  | Stomp+ | Deal X damage to ALL enemies. Costs 1 less 1 energy for each Attack played this turn. | |  |  |
+| 18 ⚔️ | 65/80 | Inferno+ | At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal X damage to ALL enemies. | |  |  |
+| 19 ⚔️ | 66/80 | Vicious+ | Whenever you apply Vulnerable, draw X cards. | |  |  |
+| 20 ❓ | 66/80 |  |  | | Pendulum | Every X turns, draw X cards. |
+| 21 💰 | 66/80 | Feel No Pain | Whenever a card is Exhausted, gain X Block. | |  |  |
+| 22 ❓ | 76/90 |  |  | |  |  |
+| 23 💀 Infested Prism + Osty | 65/90 |  |  | | Strike Dummy | Cards containing “Strike” deal X additional damage. |
+| 24 🎁 | 65/90 |  |  | | Planisphere | Whenever you enter a ? room, heal X HP. |
+| 25 🔥 | 65/90 |  |  | |  |  |
+| 26 💀 Decimillipede + Osty | 50/90 |  |  | | Lasting Candy | Every other combat, your card rewards gain an additional Power. |
+| 27 🔥 | 50/90 |  |  | |  |  |
+| 28 💀 Entomancer + Osty | 37/90 | Burning Pact+ | Exhaust 1 card. Draw X cards. | | Anchor | Start each combat with X Block. |
+| 29 ⚔️ | 35/90 | Rupture+ | Whenever you lose HP on your turn, gain X Strength. | |  |  |
+| 30 🔥 | 62/90 |  |  | |  |  |
+| 31 👑 Crusher + Rocket + Osty | 38/90 | Thrash | Deal X damage twice. Exhaust a random Attack in your Hand and add its damage to this card. | |  |  |
+| 32 🗿 | 79/81 | Apparition+ | Gain X Intangible. | | Distinguished Cape | Upon pickup, add X random Curses and X Apparitions to your Deck. |
+|  |  | Apparition ×2 | Gain X Intangible. | |  |  |
+| 33 ⚔️ | 79/79 |  |  | |  |  |
+| 34 ❓ | 79/79 |  |  | |  |  |
+| 35 ❓ | 79/79 | Decay | At the end of your turn, if this is in your Hand, take X damage. | |  |  |
+| 36 💰 | 79/79 |  |  | |  |  |
+| 37 ⚔️ | 76/79 |  |  | |  |  |
+| 38 🎁 | 76/79 |  |  | | Nunchaku | Every time you play X Attacks, gain energy. |
+| 39 💀 Flail Knight + Spectral Knight + Magi Knight + Osty | 67/79 | Feel No Pain+ | Whenever a card is Exhausted, gain X Block. | | Ripple Basin | If you did not play any Attacks during your turn, gain X Block. |
+| 40 🔥 | 67/79 |  |  | |  |  |
+| 41 💀 Soul Nexus + Osty | 65/79 | Forgotten Ritual+ | Gain energy. | | Vajra | Start each combat with X Strength. |
+| 42 ❓ | 69/79 | Infernal Blade+ | Add a random Attack into your Hand. It's free to play this turn. | |  |  |
+| 43 ❓ | 74/79 | Regret | At the end of your turn, if this is in your Hand, lose 1 HP for each card in your Hand. | | Bronze Scales | Start each combat with X Thorns. |
+|  |  |  |  | | Bag of Marbles | At the start of each combat, apply X Vulnerable to ALL enemies. |
+| 44 🔥 | 74/79 |  |  | |  |  |
+| 45 👑 Aeonglass + Osty | 39/79 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen + Osty | 13/79 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Necrobinder</b>: 30 cards, 17 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×3 | starter cards | | - | starter relic |
+| 1 🗿 | 52/66 | Bodyguard | Summon X. | | Bound Phylactery | At the start of your turn, Summon X. |
+|  |  | Unleash | Osty deals X damage. Deals additional damage equal to Osty's current HP. | | Phial Holster | Upon pickup, gain X potion slots and procure X random Potions. |
+| 2 ⚔️ | 49/66 | Graveblast | Deal X damage. Put a card from your Discard Pile into your Hand. | |  |  |
+| 3 ⚔️ | 42/66 | Bone Shards | If Osty is alive, he deals X damage to ALL enemies and you gain X Block. Osty dies. | |  |  |
+| 4 ⚔️ | 41/66 | Fear | Deal X damage. Apply X Vulnerable. | |  |  |
+| 5 ⚔️ | 37/66 |  |  | |  |  |
+| 6 ⚔️ | 32/66 | Fear | Deal X damage. Apply X Vulnerable. | |  |  |
+| 7 🔥 | 51/66 |  |  | |  |  |
+| 8 💀 Phantasmal Gardener + Osty | 24/66 | Veilpiercer | Deal X damage. The next Ethereal card you play costs 0 1 energy. | | Funerary Mask | At the start of each combat, add X Souls into your Draw Pile. |
+| 9 🎁 | 24/66 |  |  | | Kusarigama | Every time you play X Attacks in a single turn, deal X damage to a random enemy. |
+| 10 💰 | 24/66 | Enfeebling Touch | Enemy loses X Strength this turn. | |  |  |
+| 11 🔥 | 43/66 |  |  | |  |  |
+| 12 💀 Skulking Colony + Osty | 31/73 | Dredge | Put X cards from your Discard Pile into your Hand. | | Strawberry | Upon pickup, raise your Max HP by X. |
+| 13 ⚔️ | 31/73 | Defy | Gain X Block. Apply X Weak. | |  |  |
+| 14 ❓ | 31/73 | Drain Power+ | Deal X damage. Upgrade X random cards in your Discard Pile. | |  |  |
+| 15 🔥 | 31/73 |  |  | |  |  |
+| 16 👑 Lagavulin Matriarch + Osty | 14/73 | Transfigure | Add Replay to a card in your Hand. It costs an extra energy. | |  |  |
+| 17 🗿 | 61/73 | Forbidden Grimoire+ | At the end of combat, you may remove a card from your Deck. | | Dusty Tome | Upon pickup, obtain X. |
+| 18 ⚔️ | 40/73 | Negative Pulse+ | Gain X Block. Apply X Doom to ALL enemies. | |  |  |
+| 19 ⚔️ | 39/73 |  |  | |  |  |
+| 20 ❓ | 39/73 | Banshee's Cry | Deal X damage to ALL enemies. Costs energy less for each Ethereal card played this combat. | | Bronze Scales | Start each combat with X Thorns. |
+| 21 💰 | 39/73 | Melancholy | Gain X Block. Reduce this card's cost by energy whenever ANYONE dies. | | Meal Ticket | Whenever you enter a shop room, heal X HP. |
+| 22 ❓ | 49/83 |  |  | |  |  |
+| 23 💀 Infested Prism + Osty | 30/83 |  |  | | Amethyst Aubergine | Enemies drop X additional Gold. |
+| 24 🎁 | 30/83 |  |  | | Book of Five Rings | Every X cards you add to your Deck, heal X HP. |
+| 25 🔥 | 54/83 |  |  | |  |  |
+| 26 💀 Decimillipede + Osty | 9/83 |  |  | | Vambrace | The first time you gain Block from a card each combat, double the amount gained. |
+| 27 🔥 | 33/83 |  |  | |  |  |
+| 28 💀 Entomancer + Osty | 25/83 | Lethality+ | The first Attack each turn deals X% additional damage. | | Bowler Hat | Gain X% additional Gold. |
+| 29 ⚔️ | 24/83 | Defy | Gain X Block. Apply X Weak. | |  |  |
+| 30 🔥 | 48/83 |  |  | |  |  |
+| 31 👑 Crusher + Rocket + Osty | 6/83 | Call of the Void | At the start of your turn, add X random cards into your Hand. They gain Ethereal. | |  |  |
+| 32 🗿 | 83/83 | Wish+ ×2 | Put a card from your Draw Pile into your Hand. | | Sere Talon | Upon pickup, lose 9 Max HP. Add X Wishes to your Deck. |
+|  |  | Wish | Put a card from your Draw Pile into your Hand. | |  |  |
+| 33 ⚔️ | 60/77 | Drain Power+ | Deal X damage. Upgrade X random cards in your Discard Pile. | |  |  |
+| 34 ❓ | 75/77 |  |  | | Toolbox | At the start of each combat, choose 1 of X random Colorless cards and add the chosen card into your Hand. |
+| 35 ❓ | 77/77 |  |  | |  |  |
+| 36 💰 | 77/77 | Debilitate+ | Deal X damage. Vulnerable and Weak are twice as effective against the enemy for the next X turns. | |  |  |
+| 37 ⚔️ | 72/77 |  |  | |  |  |
+| 38 🎁 | 72/77 |  |  | | Venerable Tea Set | Whenever you enter a Rest Site, start the next combat with an additional energy. |
+| 39 💀 Flail Knight + Spectral Knight + Magi Knight + Osty | 25/77 |  |  | | Tuning Fork | Every time you play X Skills, gain X Block. |
+| 40 🔥 | 48/77 |  |  | |  |  |
+| 41 💀 Soul Nexus + Osty | 9/77 |  |  | | War Paint | Upon pickup, Upgrade X random Skills. |
+| 42 ❓ | 1/77 | Enfeebling Touch+ | Enemy loses X Strength this turn. | |  |  |
+| 43 ❓ | 1/77 | Shame | At the end of your turn, if this is in your Hand, gain X Frail. | |  |  |
+| 44 🔥 | 24/77 |  |  | |  |  |
+| 45 👑 Aeonglass + Osty | 1/77 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen + Osty | 1/77 |  |  | |  |  |
+
+</details>
+
+</details>
+
+<details>
+<summary><b>#6 · 2026-06-15 · Chris Defect + Glenn Regent · 2h30m · seed XQ3HHZCM1F</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Overgrowth | Phrog Parasite + Wriggler, Bygone Effigy | Kin Follower + Kin Priest |
+| 2. Hive | Infested Prism, Entomancer | The Insatiable |
+| 3. Glory | Mecha Knight | Aeonglass → Torch Head Amalgam + Queen |
+
+| | Chris (Defect) | Glenn (Regent) |
+| - | - | - |
+| End HP | 3 / 75 | 17 / 98 |
+| Damage taken / healed | 233 / 236 | 487 / 504 |
+| Gold spent | 149 | 250 |
+| Card rewards: picked / skipped | 17 / 6 | 16 / 8 |
+| Cards removed | 2 | 2 |
+| Deck size / relics | 33 / 17 | 26 / 16 |
+| Badges | Elite Hunter, Rainin' Money, Flawless | Damage Leader, Debuffer, Elite Hunter, Well Fed |
+
+<details>
+<summary><b>Chris's Defect</b>: 33 cards, 17 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×4, Dualcast, Strike+, Strike, Zap+ | starter cards | | Cracked Core | starter relic |
+| 1 🗿 | 60/75 |  |  | | Silken Tress | Upon pickup, lose all Gold. Enchant all cards in your first card reward with Glam. |
+| 2 ⚔️ | 56/75 | Cold Snap+ | Deal X damage. Channel 1 Frost. | |  |  |
+| 3 ⚔️ | 56/75 | Hologram+ | Gain X Block. Put a card from your Discard Pile into your Hand. | |  |  |
+| 4 ⚔️ | 56/75 | Compact+ | Gain X Block. Transform all Status cards in your Hand into. | |  |  |
+| 5 ⚔️ | 40/75 |  |  | |  |  |
+| 6 ⚔️ | 40/75 | Barrage+ | Deal X damage for each Channeled Orb. | |  |  |
+| 7 ⚔️ | 29/75 | Boot Sequence | Gain X Block. | |  |  |
+| 8 ⚔️ | 2/75 | Chill+ | Channel 1 Frost for each enemy. | |  |  |
+| 9 🎁 | 2/75 |  |  | | Beating Remnant | You cannot lose more than 20 HP in a single turn. |
+| 10 🔥 | 24/75 |  |  | |  |  |
+| 11 💀 Phrog Parasite + Wriggler | 34/85 | Iteration+ | The first time you draw a Status each turn, draw X cards. | | Pear | Upon pickup, raise your Max HP by X. |
+| 12 🔥 | 34/85 |  |  | |  |  |
+| 13 💀 Bygone Effigy | 22/85 | Fight Through | Gain X Block. Add 2 Wounds into your Discard Pile. | | Venerable Tea Set | Whenever you enter a Rest Site, start the next combat with an additional energy. |
+| 14 ❓ | 47/85 | Defragment+ | Gain X Focus. | |  |  |
+| 15 🔥 | 47/85 |  |  | |  |  |
+| 16 👑 Kin Follower + Kin Priest | 46/85 | Defragment+ | Gain X Focus. | |  |  |
+| 17 🗿 | 77/85 |  |  | | Pael's Tears | If you end your turn with unspent 1 energy, gain an additional energy next turn. |
+| 18 ⚔️ | 77/85 | Loop+ | At the start of your turn, trigger the passive ability of your rightmost Orb. | |  |  |
+| 19 💰 | 77/85 |  |  | |  |  |
+| 20 ❓ | 77/85 | Hologram | Gain X Block. Put a card from your Discard Pile into your Hand. | |  |  |
+| 21 ⚔️ | 74/85 | Lightning Rod+ | Gain X Block. At the start of the next X turns, Channel 1 Lightning. | |  |  |
+| 22 ❓ | 74/85 |  |  | | Blood Vial | At the start of each combat, heal X HP. |
+| 23 🔥 | 74/85 |  |  | |  |  |
+| 24 🎁 | 74/85 |  |  | | Bag of Preparation | At the start of each combat, draw X additional cards. |
+| 25 🔥 | 74/85 |  |  | |  |  |
+| 26 💀 Infested Prism | 74/85 | Voltaic+ | Channel Lightning equal to the Lightning already Channeled this combat. | | Kusarigama | Every time you play X Attacks in a single turn, deal X damage to a random enemy. |
+| 27 🔥 | 74/85 |  |  | |  |  |
+| 28 ❓ | 74/85 |  |  | |  |  |
+| 29 💀 Entomancer | 61/85 |  |  | | Whetstone | Upon pickup, Upgrade X random Attacks. |
+| 30 🔥 | 61/85 |  |  | |  |  |
+| 31 👑 The Insatiable | 28/85 | Echo Form | The first card you play each turn is played an extra time. | |  |  |
+| 32 🗿 | 73/85 |  |  | | Lord's Parasol | When you encounter the Merchant, immediately obtain EVERYTHING he sells. |
+| 33 ⚔️ | 75/85 |  |  | |  |  |
+| 34 ⚔️ | 57/75 |  |  | |  |  |
+| 35 ❓ | 57/75 |  |  | |  |  |
+| 36 ⚔️ | 41/75 | Subroutine+ | Whenever you play a Power, gain 1 energy. | |  |  |
+| 37 ⚔️ | 35/75 | Overclock+ | Draw X cards. Add a Burn into your Discard Pile. | |  |  |
+| 38 🎁 | 35/75 |  |  | | Bronze Scales | Start each combat with X Thorns. |
+| 39 🔥 | 35/75 |  |  | |  |  |
+| 40 💀 Mecha Knight | 35/75 |  |  | | Gold-Plated Cables | Your rightmost Orb triggers its passive an additional time. |
+| 41 🔥 | 35/75 |  |  | |  |  |
+| 42 ❓ | 20/75 |  |  | | Fragrant Mushroom | Upon pickup, lose X HP and Upgrade X random cards. |
+| 43 💰 | 20/75 | Beam Cell | Deal X damage. Apply X Vulnerable. | | Happy Flower | Every X turns, gain energy. |
+|  |  | Feral | The first X times you play a 01 energy Attack each turn, return it to your Hand. | | Tuning Fork | Every time you play X Skills, gain X Block. |
+|  |  | Fight Through | Gain X Block. Add 2 Wounds into your Discard Pile. | | Screaming Flagon | If you end your turn with no cards in your Hand, deal X damage to ALL enemies. |
+|  |  | Lightning Rod | Gain X Block. At the start of the next X turns, Channel 1 Lightning. | |  |  |
+|  |  | Mimic | Gain Block equal to the Block on another player. | |  |  |
+|  |  | Refract | Deal X damage twice. Channel X Glass. | |  |  |
+|  |  | Stratagem | Whenever you shuffle your Draw Pile, choose a card from it to put into your Hand. | |  |  |
+| 44 🔥 | 42/75 |  |  | |  |  |
+| 45 👑 Aeonglass | 1/75 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen | 3/75 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Regent</b>: 26 cards, 16 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×4, Strike ×2 | starter cards | | Divine Right | starter relic |
+| 1 🗿 | 60/75 | Dying Star | Deal X damage to ALL enemies. ALL enemies lose X Strength this turn. | | Arcane Scroll | Upon pickup, obtain a random Rare Card to add to your Deck. |
+|  |  | Falling Star | Deal X damage. Apply X Weak. Apply X Vulnerable. | |  |  |
+|  |  | Venerate | Gain X. | |  |  |
+| 2 ⚔️ | 56/75 | Cosmic Indifference | Gain X Block. Put a card from your Discard Pile on top of your Draw Pile. | |  |  |
+| 3 ⚔️ | 52/75 | Quasar | Choose 1 of 3 random Colorless cards to add into your Hand. | |  |  |
+| 4 ⚔️ | 48/75 |  |  | |  |  |
+| 5 ⚔️ | 38/75 | Know Thy Place | Apply X Weak. Apply X Vulnerable. | |  |  |
+| 6 ⚔️ | 29/75 | Pillar of Creation | Whenever you create a card, gain X Block. | |  |  |
+| 7 ⚔️ | 5/75 | Hidden Cache | Gain X. Next turn, gain X. | |  |  |
+| 8 ⚔️ | 1/75 |  |  | |  |  |
+| 9 🎁 | 1/75 |  |  | | Parrying Shield | If you end a turn with at least X Block, deal X damage to a random enemy. |
+| 10 🔥 | 23/75 |  |  | |  |  |
+| 11 💀 Phrog Parasite + Wriggler | 6/75 | Cloak of Stars | Gain X Block. | |  |  |
+| 12 🔥 | 28/75 |  |  | |  |  |
+| 13 💀 Bygone Effigy | 22/75 | Glimmer | Draw X cards. Put X cards from your Hand on top of your Draw Pile. | | Lunar Pastry | At the end of your turn, gain X. |
+| 14 ❓ | 36/75 | BEGONE! | Choose a card in your Hand to Transform into. | |  |  |
+| 15 🔥 | 58/75 |  |  | |  |  |
+| 16 👑 Kin Follower + Kin Priest | 1/75 | Bombardment+ | Deal X damage. At the start of your turn, if this is in your Exhaust Pile, play it. | |  |  |
+| 17 🗿 | 60/75 |  |  | | Pael's Tears | If you end your turn with unspent 1 energy, gain an additional energy next turn. |
+| 18 ⚔️ | 33/75 | BEGONE! | Choose a card in your Hand to Transform into. | |  |  |
+| 19 💰 | 33/75 |  |  | | Happy Flower | Every X turns, gain energy. |
+| 20 ❓ | 41/75 |  |  | |  |  |
+| 21 ⚔️ | 1/75 | Glitterstream | Gain X Block. Next turn, gain X Block. | |  |  |
+| 22 ❓ | 8/82 |  |  | | Strawberry | Upon pickup, raise your Max HP by X. |
+|  |  |  |  | | Amethyst Aubergine | Enemies drop X additional Gold. |
+| 23 🔥 | 32/82 |  |  | |  |  |
+| 24 🎁 | 32/82 |  |  | | Cloak Clasp | At the end of your turn, gain X Block for each card in your Hand. |
+| 25 🔥 | 56/82 |  |  | |  |  |
+| 26 💀 Infested Prism | 19/82 | Shining Strike | Deal X damage. Gain X. Put this card on top of your Draw Pile. | | Centennial Puzzle | The first time you lose HP each combat, draw X cards. |
+| 27 🔥 | 43/82 |  |  | |  |  |
+| 28 ❓ | 43/82 |  |  | |  |  |
+| 29 💀 Entomancer | 2/82 | Guiding Star+ | Deal X damage. Next turn, draw X cards. | | Regalite | The first time you create a card each turn, gain X Block. |
+| 30 🔥 | 26/82 |  |  | |  |  |
+| 31 👑 The Insatiable | 1/82 | Arsenal | Whenever you create a card, gain X Strength. | |  |  |
+| 32 🗿 | 65/82 |  |  | | Music Box | Create an Ethereal copy of the first Attack you play each turn. |
+| 33 ⚔️ | 57/82 | Glitterstream+ | Gain X Block. Next turn, gain X Block. | |  |  |
+| 34 ⚔️ | 46/78 |  |  | |  |  |
+| 35 ❓ | 46/78 |  |  | |  |  |
+| 36 ⚔️ | 1/78 |  |  | |  |  |
+| 37 ⚔️ | 1/78 |  |  | |  |  |
+| 38 🎁 | 1/78 |  |  | | Eternal Feather | For every X cards in your Deck, heal X HP whenever you enter a Rest Site. |
+| 39 🔥 | 39/78 |  |  | |  |  |
+| 40 💀 Mecha Knight | 1/78 |  |  | | Anchor | Start each combat with X Block. |
+| 41 🔥 | 39/78 |  |  | |  |  |
+| 42 ❓ | 59/98 |  |  | | Big Mushroom | Upon pickup, raise your Max HP by X. At the start of each combat, draw X fewer cards. |
+| 43 💰 | 59/98 | Particle Wall | Gain X Block. Return this card to your Hand. | | Mini Regent | The first time you spend X each turn, gain X Strength. |
+| 44 🔥 | 74/98 |  |  | |  |  |
+| 45 👑 Aeonglass | 40/98 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen | 17/98 |  |  | |  |  |
+
+</details>
+
+</details>
+
+<details>
+<summary><b>#5 · 2026-06-11 · Chris Defect + Glenn Ironclad · 2h37m · seed KH8W1K76W5</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Overgrowth | Phrog Parasite + Wriggler, Byrdonis | Vantom |
+| 2. Hive | Entomancer, Infested Prism | The Insatiable |
+| 3. Glory | Flail Knight + Spectral Knight + Magi Knight, Soul Nexus | Test Subject → Aeonglass |
+
+| | Chris (Defect) | Glenn (Ironclad) |
+| - | - | - |
+| End HP | 3 / 97 | 115 / 116 |
+| Damage taken / healed | 344 / 347 | 367 / 482 |
+| Gold spent | 616 | 100 |
+| Card rewards: picked / skipped | 13 / 13 | 16 / 10 |
+| Cards removed | 2 | 1 |
+| Deck size / relics | 50 / 14 | 26 / 16 |
+| Badges | C-c-c-Combo, Damage Leader, Elite Killer, Well Fed, Honed, Big Deck, Flawless | Debuffer, Elite Killer, Stuffed |
+
+<details>
+<summary><b>Chris's Defect</b>: 50 cards, 14 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Dualcast, Zap, Ascender's Bane, Dualcast | starter cards | | Cracked Core | starter relic |
+| 1 🗿 | 60/75 |  |  | | Booming Conch | At the start of Elite combats, draw X additional cards and gain energy. |
+| 2 ⚔️ | 56/75 | Null | Deal X damage. Apply X Weak. Channel 1 Dark. | |  |  |
+| 3 ⚔️ | 47/75 | Go for the Eyes | Deal X damage. If the enemy intends to attack, apply X Weak. | |  |  |
+| 4 ⚔️ | 47/75 | Hologram+ | Gain X Block. Put a card from your Discard Pile into your Hand. | |  |  |
+| 5 ❓ | 18/75 |  |  | |  |  |
+| 6 ⚔️ | 4/75 | TURBO+ | Gain energy. Add a Void into your Discard Pile. | |  |  |
+| 7 🔥 | 26/75 |  |  | |  |  |
+| 8 💀 Phrog Parasite + Wriggler | 16/75 |  |  | | Bellows | The first Hand you draw each combat is Upgraded. |
+| 9 🎁 | 16/75 |  |  | | Lantern | Start each combat with an additional energy. |
+| 10 🔥 | 38/75 |  |  | |  |  |
+| 11 ⚔️ | 2/75 |  |  | |  |  |
+| 12 🔥 | 24/75 |  |  | |  |  |
+| 13 💀 Byrdonis | 10/75 | Voltaic+ | Channel Lightning equal to the Lightning already Channeled this combat. | | Blood Vial | At the start of each combat, heal X HP. |
+| 14 ⚔️ | 22/75 | Charge Battery | Gain X Block. Next turn, gain energy. | |  |  |
+| 15 🔥 | 27/80 |  |  | |  |  |
+| 16 👑 Vantom | 1/80 | Reboot | Shuffle ALL your cards into your Draw Pile. Draw X cards. | |  |  |
+| 17 🗿 | 64/80 | Chaos | Channel X random Orbs. | | Pandora's Box | Transform ALL Strikes and Defends. |
+|  |  | Cold Snap | Deal X damage. Channel 1 Frost. | |  |  |
+|  |  | Compact+ | Gain X Block. Transform all Status cards in your Hand into. | |  |  |
+|  |  | Compact | Gain X Block. Transform all Status cards in your Hand into. | |  |  |
+|  |  | Fight Through | Gain X Block. Add 2 Wounds into your Discard Pile. | |  |  |
+|  |  | Rainbow+ | Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark. | |  |  |
+|  |  | Rocket Punch | Deal X damage. Draw X cards. Whenever you create a Status, reduce this card's cost by 1 1 energy until played. | |  |  |
+| 18 ⚔️ | 49/80 | Lightning Rod | Gain X Block. At the start of the next X turns, Channel 1 Lightning. | |  |  |
+| 19 ❓ | 49/80 |  |  | | Tea of Discourtesy | At the start of the next combat, shuffle X Dazed into your Draw Pile. |
+| 20 ⚔️ | 47/80 |  |  | |  |  |
+| 21 ❓ | 57/90 |  |  | |  |  |
+| 22 💰 | 57/90 | Skim | Draw X cards. | |  |  |
+| 23 🔥 | 57/90 |  |  | |  |  |
+| 24 🎁 | 57/90 |  |  | | Game Piece | Whenever you play a Power, draw X cards. |
+| 25 💀 Entomancer | 59/90 | TURBO | Gain energy. Add a Void into your Discard Pile. | | Horn Cleat | At the start of your 2nd turn, gain X Block. |
+| 26 🔥 | 59/90 |  |  | |  |  |
+| 27 ⚔️ | 58/90 | Hologram+ | Gain X Block. Put a card from your Discard Pile into your Hand. | |  |  |
+| 28 ⚔️ | 60/90 | Overclock | Draw X cards. Add a Burn into your Discard Pile. | |  |  |
+| 29 💀 Infested Prism | 52/90 |  |  | | Tiny Mailbox | Whenever you Rest, procure 2 random Potions. |
+| 30 🔥 | 52/90 |  |  | |  |  |
+| 31 👑 The Insatiable | 13/90 | Echo Form | The first card you play each turn is played an extra time. | |  |  |
+| 32 🗿 | 74/90 |  |  | | Iron Club | Every X cards you play, draw 1 card. |
+| 33 ⚔️ | 76/90 | TURBO+ | Gain energy. Add a Void into your Discard Pile. | |  |  |
+| 34 ⚔️ | 78/90 |  |  | |  |  |
+| 35 ❓ | 80/90 |  |  | |  |  |
+| 36 ⚔️ | 82/90 |  |  | |  |  |
+| 37 ❓ | 82/90 | Bad Luck | At the end of your turn, if this is in your Hand, lose X HP. | |  |  |
+|  |  | Chaos | Channel X random Orbs. | |  |  |
+|  |  | Charge Battery | Gain X Block. Next turn, gain energy. | |  |  |
+|  |  | Cold Snap | Deal X damage. Channel 1 Frost. | |  |  |
+|  |  | Compact ×2 | Gain X Block. Transform all Status cards in your Hand into. | |  |  |
+|  |  | Echo Form | The first card you play each turn is played an extra time. | |  |  |
+|  |  | Fight Through | Gain X Block. Add 2 Wounds into your Discard Pile. | |  |  |
+|  |  | Go for the Eyes | Deal X damage. If the enemy intends to attack, apply X Weak. | |  |  |
+|  |  | Hologram+ ×2 | Gain X Block. Put a card from your Discard Pile into your Hand. | |  |  |
+|  |  | Lightning Rod | Gain X Block. At the start of the next X turns, Channel 1 Lightning. | |  |  |
+|  |  | Null | Deal X damage. Apply X Weak. Channel 1 Dark. | |  |  |
+|  |  | Overclock | Draw X cards. Add a Burn into your Discard Pile. | |  |  |
+|  |  | Rainbow+ | Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark. | |  |  |
+|  |  | Reboot | Shuffle ALL your cards into your Draw Pile. Draw X cards. | |  |  |
+|  |  | Rocket Punch | Deal X damage. Draw X cards. Whenever you create a Status, reduce this card's cost by 1 1 energy until played. | |  |  |
+|  |  | Skim | Draw X cards. | |  |  |
+|  |  | TURBO ×2 | Gain energy. Add a Void into your Discard Pile. | |  |  |
+|  |  | TURBO+ | Gain energy. Add a Void into your Discard Pile. | |  |  |
+|  |  | Voltaic+ | Channel Lightning equal to the Lightning already Channeled this combat. | |  |  |
+| 38 🎁 | 89/97 |  |  | | Strawberry | Upon pickup, raise your Max HP by X. |
+| 39 💰 | 89/97 | Creative AI | At the start of your turn, add a random Power into your Hand. | |  |  |
+|  |  | Master of Strategy | Draw X cards. | |  |  |
+| 40 💀 Flail Knight + Spectral Knight + Magi Knight | 91/97 |  |  | | Pendulum | Every X turns, draw X cards. |
+| 41 🔥 | 91/97 |  |  | |  |  |
+| 42 💀 Soul Nexus | 93/97 |  |  | | Stone Cracker | At the start of each combat, Upgrade X random cards in your Draw Pile for the rest of combat. |
+| 43 ❓ | 95/97 |  |  | |  |  |
+| 44 🔥 | 95/97 |  |  | |  |  |
+| 45 👑 Test Subject | 1/97 |  |  | |  |  |
+| 46 👑 Aeonglass | 3/97 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Ironclad</b>: 26 cards, 16 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Bash+, Defend ×4, Strike+, Strike ×2 | starter cards | | Burning Blood | starter relic |
+| 1 🗿 | 64/80 | Rampage+ | Deal X damage. Increase this card's damage by X this combat. | | New Leaf | Upon pickup, Transform X cards. |
+| 2 ⚔️ | 61/80 | Molten Fist+ | Deal X damage. Double the enemy's Vulnerable. | |  |  |
+| 3 ⚔️ | 63/80 | Vicious | Whenever you apply Vulnerable, draw X cards. | |  |  |
+| 4 ⚔️ | 69/80 | True Grit+ | Gain X Block. Exhaust 1 card. | |  |  |
+| 5 ❓ | 47/80 |  |  | |  |  |
+| 6 ⚔️ | 52/80 | Drum of Battle | Draw X cards. When this card is Exhausted, gain energy. | |  |  |
+| 7 🔥 | 52/80 |  |  | |  |  |
+| 8 💀 Phrog Parasite + Wriggler | 27/80 | Tremble | Apply X Vulnerable. | | Mummified Hand | Whenever you play a Power, a random card in your Hand is free to play that turn. |
+| 9 🎁 | 27/80 |  |  | | Reptile Trinket | Whenever you use a potion, gain X Strength this turn. |
+| 10 🔥 | 51/80 |  |  | |  |  |
+| 11 ⚔️ | 46/80 | Feed | Deal X damage. If Fatal, raise your Max HP by X. | |  |  |
+| 12 🔥 | 46/80 |  |  | |  |  |
+| 13 💀 Byrdonis | 52/90 |  |  | | Pear | Upon pickup, raise your Max HP by X. |
+| 14 ⚔️ | 52/94 | Shrug It Off | Gain X Block. Draw X card. | |  |  |
+| 15 🔥 | 52/94 |  |  | |  |  |
+| 16 👑 Vantom | 23/94 | Dark Embrace+ | Whenever a card is Exhausted, draw 1 card. | |  |  |
+| 17 🗿 | 79/94 |  |  | | Runic Pyramid | At the end of your turn, you no longer discard your Hand. |
+| 18 ⚔️ | 68/98 | Colossus+ | Gain X Block. You receive 50% less damage from Vulnerable enemies this turn. | |  |  |
+| 19 ❓ | 68/98 |  |  | | Tea of Discourtesy | At the start of the next combat, shuffle X Dazed into your Draw Pile. |
+| 20 ⚔️ | 69/98 | True Grit+ | Gain X Block. Exhaust 1 card. | |  |  |
+| 21 ❓ | 63/98 |  |  | |  |  |
+| 22 💰 | 63/98 |  |  | | Razor Tooth | Every time you play an Attack or Skill, Upgrade it for the remainder of combat. |
+| 23 🔥 | 63/98 |  |  | |  |  |
+| 24 🎁 | 63/98 |  |  | | Chandelier | At the start of your 3rd turn, gain energy. |
+| 25 💀 Entomancer | 52/102 | Feel No Pain+ | Whenever a card is Exhausted, gain X Block. | | Oddly Smooth Stone | Start each combat with X Dexterity. |
+| 26 🔥 | 52/102 |  |  | |  |  |
+| 27 ⚔️ | 48/102 |  |  | |  |  |
+| 28 ⚔️ | 54/106 | Taunt+ | Gain X Block. Apply X Vulnerable. | |  |  |
+| 29 💀 Infested Prism | 68/106 |  |  | | Gambling Chip | At the start of each combat, discard any number of cards then draw that many. |
+| 30 🔥 | 68/106 |  |  | |  |  |
+| 31 👑 The Insatiable | 66/106 | Unmovable | The first time you gain Block from a card each turn, double the amount gained. | |  |  |
+| 32 🗿 | 98/106 |  |  | | Throwing Axe | The first card you play each combat is played an extra time. |
+| 33 ⚔️ | 88/104 |  |  | |  |  |
+| 34 ⚔️ | 93/108 |  |  | |  |  |
+| 35 ❓ | 103/112 |  |  | |  |  |
+| 36 ⚔️ | 85/116 | Inflame | Gain X Strength. | |  |  |
+| 37 ❓ | 85/116 |  |  | |  |  |
+| 38 🎁 | 85/116 |  |  | | Bronze Scales | Start each combat with X Thorns. |
+| 39 💰 | 85/116 | Production | Gain energy. | | Punch Dagger | Upon pickup, Enchant an Attack with Momentum X. |
+| 40 💀 Flail Knight + Spectral Knight + Magi Knight | 91/116 |  |  | | Blood Vial | At the start of each combat, heal X HP. |
+| 41 🔥 | 91/116 |  |  | |  |  |
+| 42 💀 Soul Nexus | 99/116 |  |  | | Pantograph | At the start of each Boss combat, heal X HP. |
+| 43 ❓ | 107/116 | Not Yet | Heal X HP. | |  |  |
+| 44 🔥 | 107/116 |  |  | |  |  |
+| 45 👑 Test Subject | 113/116 |  |  | |  |  |
+| 46 👑 Aeonglass | 115/116 |  |  | |  |  |
 
 </details>
 
