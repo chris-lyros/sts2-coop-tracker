@@ -4,8 +4,8 @@
 - **Mode:** co-operative, Ascension 10 (every run; only A10 wins count)
 - **Goal:** win with all 25 ordered character combos (who plays what matters; mirrors are a single combo)
 - **Roster (5):** Ironclad, Silent, Defect, Necrobinder, Regent
-- **Progress:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 11 / 25 (44%)
-- **Last updated:** 2026-08-29
+- **Progress:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 13 / 25 (52%)
+- **Last updated:** 2026-09-08
 
 ## Combo matrix
 
@@ -17,33 +17,33 @@ Rows = Chris's character, columns = Glenn's character, so Chris-Defect + Glenn-I
 | Silent        | · | ✅ | · | · | · |
 | Defect        | ✅ | · | ✅ | · | ✅ |
 | Necrobinder   | ✅ | · | · | ✅ | ✅ |
-| Regent        | ✅ | · | · | · | ✅ |
+| Regent        | ✅ | ✅ | ✅ | · | ✅ |
 
-## Combos remaining (14 of 25)
+## Combos remaining (12 of 25)
 
-Same 14 combos read from each side: what Chris still needs when he plays a character, and what Glenn still needs when he plays one. Each side sums to 14.
+Same 12 combos read from each side: what Chris still needs when he plays a character, and what Glenn still needs when he plays one. Each side sums to 12.
 
 | Chris plays | still needs Glenn on | | Glenn plays | still needs Chris on |
 | ----------- | -------------------- | - | ----------- | -------------------- |
 | Ironclad (3) | Silent, Defect, Regent | | Ironclad (1) | Silent |
-| Silent (4) | Ironclad, Defect, Necrobinder, Regent | | Silent (4) | Ironclad, Defect, Necrobinder, Regent |
-| Defect (2) | Silent, Necrobinder | | Defect (4) | Ironclad, Silent, Necrobinder, Regent |
+| Silent (4) | Ironclad, Defect, Necrobinder, Regent | | Silent (3) | Ironclad, Defect, Necrobinder |
+| Defect (2) | Silent, Necrobinder | | Defect (3) | Ironclad, Silent, Necrobinder |
 | Necrobinder (2) | Silent, Defect | | Necrobinder (3) | Silent, Defect, Regent |
-| Regent (3) | Silent, Defect, Necrobinder | | Regent (2) | Ironclad, Silent |
+| Regent (1) | Necrobinder | | Regent (2) | Ironclad, Silent |
 
 ## Stats
 
-- Wins logged: 11
-- Combos won: 11 / 25
+- Wins logged: 13
+- Combos won: 13 / 25
 - Per-character wins by player (a mirror win counts once for each player):
 
 | Character   | Chris | Glenn | Total |
 | ----------- | ----- | ----- | ----- |
 | Ironclad    | 2     | 4     | 6     |
-| Silent      | 1     | 1     | 2     |
-| Defect      | 3     | 1     | 4     |
+| Silent      | 1     | 2     | 3     |
+| Defect      | 3     | 2     | 5     |
 | Necrobinder | 3     | 2     | 5     |
-| Regent      | 2     | 3     | 5     |
+| Regent      | 4     | 3     | 7     |
 
 ## Win log (source of truth)
 
@@ -62,8 +62,310 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | 9 | 2026-07-26 | Silent | Silent | 2h23m | |
 | 10 | 2026-08-18 | Regent | Ironclad | 2h59m | second run of the day |
 | 11 | 2026-08-23 | Defect | Defect | 2h37m | |
+| 12 | 2026-09-07 | Regent | Defect | 2h11m | |
+| 13 | 2026-09-08 | Regent | Silent | 1h42m | same sitting as #12, finished just after midnight |
 
 ## Run details
+
+<details>
+<summary><b>#13 · 2026-09-08 · Chris Regent + Glenn Silent · 1h42m · seed YVTT76ABW2FX</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Overgrowth | Byrdonis, Phrog Parasite + Wriggler, Bygone Effigy | Vantom |
+| 2. Hive | Infested Prism, Entomancer | Knowledge Demon |
+| 3. Glory | Mecha Knight, Flail Knight + Spectral Knight + Magi Knight | Aeonglass → Torch Head Amalgam + Queen |
+
+| | Chris (Regent) | Glenn (Silent) |
+| - | - | - |
+| End HP | 1 / 80 | 27 / 70 |
+| Damage taken / healed | 368 / 369 | 218 / 245 |
+| Gold spent | 711 | 250 |
+| Card rewards: picked / skipped | 11 / 10 | 18 / 4 |
+| Cards removed | 6 | 6 |
+| Deck size / relics | 22 / 18 | 55 / 16 |
+| Badges | Elite Killer | Damage Leader, Debuffer, Elite Killer, Big Deck |
+
+<details>
+<summary><b>Chris's Regent</b>: 22 cards, 18 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×3, Defend+, Strike+ | starter cards | | Divine Right | starter relic |
+| 1 🗿 | 60/75 | Celestial Might+ | Deal X damage X times. | | Neow's Bones | Upon pickup, gain X random Neow Relics. Add X random Curses to your Deck. |
+|  |  | Falling Star+ | Deal X damage. Apply X Weak. Apply X Vulnerable. | | Neow's Talisman | Upon pickup, Upgrade 1 of your Strikes and 1 of your Defends. |
+|  |  | Glow+ | Gain X. Draw X cards. Next turn, draw X cards. | | Scroll Boxes | Upon pickup, choose 1 of 2 packs of cards to add to your Deck. |
+|  |  | Terraforming | Gain X Vigor. | |  |  |
+|  |  | Venerate+ | Gain X. | |  |  |
+| 2 ⚔️ | 60/75 | Cloak of Stars | Gain X Block. | |  |  |
+| 3 ❓ | 60/75 |  |  | |  |  |
+| 4 ❓ | 60/75 |  |  | |  |  |
+| 5 ❓ | 60/75 |  |  | |  |  |
+| 6 ⚔️ | 60/75 | Gamma Blast | Deal X damage. Apply X Weak. Apply X Vulnerable. | |  |  |
+| 7 🔥 | 60/75 |  |  | |  |  |
+| 8 💀 Byrdonis | 29/75 |  |  | | Whetstone | Upon pickup, Upgrade X random Attacks. |
+| 9 🎁 | 29/75 |  |  | | Lantern | Start each combat with an additional energy. |
+| 10 🔥 | 51/75 |  |  | |  |  |
+| 11 💀 Phrog Parasite + Wriggler | 16/75 | BEGONE!+ | Choose a card in your Hand to Transform into. | | Beating Remnant | You cannot lose more than 20 HP in a single turn. |
+| 12 🔥 | 38/75 |  |  | |  |  |
+| 13 ❓ | 38/75 |  |  | |  |  |
+| 14 💀 Bygone Effigy | 28/75 |  |  | | Anchor | Start each combat with X Block. |
+| 15 🔥 | 50/75 |  |  | |  |  |
+| 16 👑 Vantom | 12/75 | Dying Star+ | Deal X damage to ALL enemies. ALL enemies lose X Strength this turn. | |  |  |
+| 17 🗿 | 62/75 |  |  | | Yummy Cookie | Upon pickup, Upgrade X cards. |
+| 18 ⚔️ | 37/75 |  |  | |  |  |
+| 19 ❓ | 37/75 |  |  | |  |  |
+| 20 ❓ | 37/75 |  |  | |  |  |
+| 21 💰 | 37/75 |  |  | |  |  |
+| 22 ⚔️ | 33/75 |  |  | |  |  |
+| 23 🔥 | 55/75 |  |  | |  |  |
+| 24 🎁 | 55/75 |  |  | | Gambling Chip | At the start of each combat, discard any number of cards then draw that many. |
+| 25 ⚔️ | 49/75 |  |  | |  |  |
+| 26 💀 Infested Prism | 11/75 | Cloak of Stars | Gain X Block. | | Tiny Mailbox | Whenever you Rest, procure 2 random Potions. |
+| 27 🔥 | 33/75 |  |  | |  |  |
+| 28 ❓ | 27/75 |  |  | |  |  |
+| 29 💀 Entomancer | 27/75 |  |  | | Pendulum | Every X turns, draw X cards. |
+| 30 🔥 | 49/75 |  |  | |  |  |
+| 31 👑 Knowledge Demon | 1/75 | I Am Invincible+ | Gain X Block. At the end of your turn, if this is on top of your Draw Pile, play it. | |  |  |
+| 32 🗿 | 60/75 |  |  | | Tri-Boomerang | Choose X Attacks in your Deck. Enchant them with Instinct. |
+| 33 ⚔️ | 60/75 |  |  | |  |  |
+| 34 ❓ | 60/75 | Convergence | Next turn, gain energy and X. Retain your Hand this turn. | |  |  |
+| 35 💰 | 60/75 | Radiate | Deal X damage to ALL enemies for each X gained this turn. | | Vajra | Start each combat with X Strength. |
+| 36 ❓ | 60/75 |  |  | | Potion Belt | Upon pickup, gain X potion slots. |
+| 37 ❓ | 60/75 |  |  | |  |  |
+| 38 🎁 | 60/75 |  |  | | Nunchaku | Every time you play X Attacks, gain energy. |
+| 39 🔥 | 75/75 |  |  | |  |  |
+| 40 ❓ | 75/75 | Patter | Gain X Block. Gain X Vigor. | |  |  |
+| 41 💀 Mecha Knight | 63/75 | Orbit+ | Every 4 energy you spend, gain energy. | | Strike Dummy | Cards containing “Strike” deal X additional damage. |
+| 42 ❓ | 62/75 | Tyranny | At the start of your turn, draw 1 card and Exhaust 1 card from your Hand. | |  |  |
+| 43 💀 Flail Knight + Spectral Knight + Magi Knight | 53/75 |  |  | | Bag of Marbles | At the start of each combat, apply X Vulnerable to ALL enemies. |
+| 44 🔥 | 75/75 |  |  | |  |  |
+| 45 👑 Aeonglass | 7/80 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen | 1/80 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Silent</b>: 55 cards, 16 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×4, Neutralize+, Strike+, Strike, Survivor, Ascender's Bane, Defend ×4, Neutralize+, Strike+, Strike, Survivor | starter cards | | Ring of the Snake | starter relic |
+| 1 🗿 | 56/70 | Adrenaline+ | Gain energy. Draw 2 cards. | | Hefty Tablet | Upon pickup, choose 1 of X Rare cards to add to your Deck, and add 1 Injury to your Deck. |
+| 2 ⚔️ | 49/70 | Footwork+ | Gain X Dexterity. | |  |  |
+| 3 ❓ | 49/70 |  |  | |  |  |
+| 4 ❓ | 49/70 |  |  | |  |  |
+| 5 ❓ | 49/70 |  |  | |  |  |
+| 6 ⚔️ | 49/70 | Pounce+ | Deal X damage. The next Skill you play costs 0 1 energy. | |  |  |
+| 7 🔥 | 49/70 |  |  | |  |  |
+| 8 💀 Byrdonis | 39/70 | Prepared+ | Draw X cards. Discard X cards. | | Potion Belt | Upon pickup, gain X potion slots. |
+| 9 🎁 | 39/70 |  |  | |  |  |
+| 10 🔥 | 60/70 |  |  | |  |  |
+| 11 💀 Phrog Parasite + Wriggler | 38/70 |  |  | | Pantograph | At the start of each Boss combat, heal X HP. |
+| 12 🔥 | 38/70 |  |  | |  |  |
+| 13 ❓ | 38/70 | Backflip | Gain X Block. Draw 2 cards. | |  |  |
+| 14 💀 Bygone Effigy | 38/70 | Untouchable | Gain X Block. | | Horn Cleat | At the start of your 2nd turn, gain X Block. |
+| 15 🔥 | 38/70 |  |  | |  |  |
+| 16 👑 Vantom | 33/70 | Fan of Knives+ | Shivs now hit ALL enemies. Add X Shivs into your Hand. | |  |  |
+| 17 🗿 | 62/70 |  |  | | Toasty Mittens | At the start of your turn, Exhaust 1 card from your Hand and gain X Strength. |
+| 18 ⚔️ | 70/70 | Deflect+ | Gain X Block. | |  |  |
+| 19 ❓ | 67/70 |  |  | |  |  |
+| 20 ❓ | 67/70 |  |  | |  |  |
+| 21 💰 | 67/70 | Footwork | Gain X Dexterity. | | Toolbox | At the start of each combat, choose 1 of X random Colorless cards and add the chosen card into your Hand. |
+| 22 ⚔️ | 64/70 | Blade Dance | Add X Shivs into your Hand. | |  |  |
+| 23 🔥 | 64/70 |  |  | |  |  |
+| 24 🎁 | 64/70 |  |  | | Gorget | At the start of each combat, gain X Plating. |
+| 25 ⚔️ | 61/70 | Noxious Fumes+ | At the start of your turn, apply X Poison to ALL enemies. | |  |  |
+| 26 💀 Infested Prism | 50/70 | Hidden Daggers | Discard X cards. Add X into your Hand. | | Anchor | Start each combat with X Block. |
+| 27 🔥 | 50/70 |  |  | |  |  |
+| 28 ❓ | 44/70 |  |  | |  |  |
+| 29 💀 Entomancer | 64/70 | Bouncing Flask+ | Apply X Poison to a random enemy X times. | | Parrying Shield | If you end a turn with at least X Block, deal X damage to a random enemy. |
+| 30 🔥 | 64/70 |  |  | |  |  |
+| 31 👑 Knowledge Demon | 11/70 |  |  | |  |  |
+| 32 🗿 | 58/70 |  |  | | Crossbow | At the start of your turn, add a random Attack into your Hand. It's free to play this turn. |
+| 33 ⚔️ | 58/70 | Mirage+ | Gain Block equal to Poison on ALL enemies. | |  |  |
+| 34 ❓ | 58/70 | Leg Sweep+ | Apply X Weak. Gain X Block. | |  |  |
+| 35 💰 | 58/70 | Noxious Fumes+ | At the start of your turn, apply X Poison to ALL enemies. | | Dolly's Mirror | Upon pickup, obtain an additional copy of a card in your Deck. |
+| 36 ❓ | 58/70 |  |  | | Whetstone | Upon pickup, Upgrade X random Attacks. |
+| 37 ❓ | 58/70 | Adrenaline+ | Gain energy. Draw 2 cards. | |  |  |
+|  |  | Backflip | Gain X Block. Draw 2 cards. | |  |  |
+|  |  | Bad Luck | At the end of your turn, if this is in your Hand, lose X HP. | |  |  |
+|  |  | Blade Dance | Add X Shivs into your Hand. | |  |  |
+|  |  | Bouncing Flask+ | Apply X Poison to a random enemy X times. | |  |  |
+|  |  | Deflect+ | Gain X Block. | |  |  |
+|  |  | Fan of Knives+ | Shivs now hit ALL enemies. Add X Shivs into your Hand. | |  |  |
+|  |  | Footwork+ | Gain X Dexterity. | |  |  |
+|  |  | Footwork | Gain X Dexterity. | |  |  |
+|  |  | Hidden Daggers | Discard X cards. Add X into your Hand. | |  |  |
+|  |  | Leg Sweep | Apply X Weak. Gain X Block. | |  |  |
+|  |  | Mirage+ | Gain Block equal to Poison on ALL enemies. | |  |  |
+|  |  | Noxious Fumes+ ×2 | At the start of your turn, apply X Poison to ALL enemies. | |  |  |
+|  |  | Pounce+ | Deal X damage. The next Skill you play costs 0 1 energy. | |  |  |
+|  |  | Prepared+ | Draw X cards. Discard X cards. | |  |  |
+|  |  | Untouchable | Gain X Block. | |  |  |
+| 38 🎁 | 58/70 |  |  | | Shuriken | Every time you play X Attacks in a single turn, gain X Strength. |
+| 39 🔥 | 58/70 |  |  | |  |  |
+| 40 ❓ | 58/70 | Piercing Wail+ | ALL enemies lose X Strength this turn. | |  |  |
+| 41 💀 Mecha Knight | 51/70 | Blur+ | Gain X Block. Block is not removed at the start of your next turn. | | Rainbow Ring | The first time you play an Attack, Skill, and Power each turn, gain X Strength and X Dexterity. |
+| 42 ❓ | 51/70 | Calculated Gamble+ | Discard your Hand, then draw that many cards. | |  |  |
+| 43 💀 Flail Knight + Spectral Knight + Magi Knight | 46/70 | Blade Dance+ | Add X Shivs into your Hand. | | Paper Krane | Enemies with Weak deal 40% less damage to you rather than 25%. |
+| 44 🔥 | 46/70 |  |  | |  |  |
+| 45 👑 Aeonglass | 65/70 |  |  | |  |  |
+| 46 👑 Torch Head Amalgam + Queen | 27/70 |  |  | |  |  |
+
+</details>
+
+</details>
+
+<details>
+<summary><b>#12 · 2026-09-07 · Chris Regent + Glenn Defect · 2h11m · seed LW4E9JW1G6FM</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Overgrowth | Byrdonis, Bygone Effigy | Vantom |
+| 2. Hive | Entomancer, Decimillipede | Knowledge Demon |
+| 3. Glory | Flail Knight + Spectral Knight + Magi Knight, Soul Nexus | Aeonglass → Test Subject |
+
+| | Chris (Regent) | Glenn (Defect) |
+| - | - | - |
+| End HP | 13 / 61 | 1 / 80 |
+| Damage taken / healed | 232 / 245 | 361 / 362 |
+| Gold spent | 781 | 175 |
+| Card rewards: picked / skipped | 11 / 10 | 17 / 4 |
+| Cards removed | 4 | 3 |
+| Deck size / relics | 26 / 17 | 28 / 17 |
+| Badges | C-c-c-Combo, Damage Leader, Debuffer, Elite Killer, Money Money | Elite Killer, Team Player |
+
+<details>
+<summary><b>Chris's Regent</b>: 26 cards, 17 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend+, Defend, Reflect | starter cards | | Divine Right | starter relic |
+| 1 🗿 | 60/75 | Falling Star | Deal X damage. Apply X Weak. Apply X Vulnerable. | | Golden Pearl | Upon pickup, gain X Gold. |
+|  |  | Venerate | Gain X. | |  |  |
+| 2 ⚔️ | 57/75 | Glow | Gain X. Draw X cards. Next turn, draw X cards. | |  |  |
+| 3 ⚔️ | 56/75 | Pillar of Creation+ | Whenever you create a card, gain X Block. | |  |  |
+| 4 ❓ | 56/75 | Bundle of Joy+ | Add X random Colorless cards into your Hand. | |  |  |
+| 5 ❓ | 56/75 |  |  | |  |  |
+| 6 ⚔️ | 46/75 |  |  | |  |  |
+| 7 🔥 | 46/75 |  |  | |  |  |
+| 8 ❓ | 46/75 |  |  | | Razor Tooth | Every time you play an Attack or Skill, Upgrade it for the remainder of combat. |
+| 9 🎁 | 46/75 |  |  | | Pantograph | At the start of each Boss combat, heal X HP. |
+| 10 🔥 | 68/75 |  |  | |  |  |
+| 11 💀 Byrdonis | 58/75 |  |  | | Juzu Bracelet | Regular enemy combats are no longer encountered in ? rooms. |
+| 12 ❓ | 58/75 |  |  | |  |  |
+| 13 💀 Bygone Effigy | 44/75 |  |  | | Festive Popper | At the start of each combat, deal X damage to ALL enemies. |
+| 14 💰 | 44/75 | Spectrum Shift+ | At the start of your turn, add X random Colorless cards into your Hand. | | Art of War | If you do not play any Attacks during your turn, gain an additional energy next turn. |
+| 15 🔥 | 44/75 |  |  | |  |  |
+| 16 👑 Vantom | 51/75 | Tutor+ | Another player chooses a card in their Draw Pile to add into their Hand. | |  |  |
+| 17 🗿 | 70/75 |  |  | | Very Hot Cocoa | Start each combat with an additional energy. |
+| 18 ⚔️ | 66/75 | BEGONE! | Choose a card in your Hand to Transform into. | |  |  |
+| 19 ❓ | 66/75 |  |  | |  |  |
+| 20 🔥 | 66/75 |  |  | |  |  |
+| 21 ⚔️ | 66/75 |  |  | |  |  |
+| 22 🔥 | 66/75 |  |  | |  |  |
+| 23 ❓ | 66/75 | Parry | Sovereign Blade now gains X Block. | |  |  |
+| 24 🎁 | 66/75 |  |  | | Pen Nib | Every 10th Attack you play deals double damage. |
+| 25 ❓ | 60/75 |  |  | |  |  |
+| 26 🎁 | 60/75 |  |  | | Pendulum | Every X turns, draw X cards. |
+| 27 ❓ | 60/75 | Quasar | Choose 1 of 3 random Colorless cards to add into your Hand. | |  |  |
+| 28 💰 | 60/75 | Child of the Stars+ | Whenever you spend X, gain X Block for each X spent. | |  |  |
+|  |  | Quasar | Choose 1 of 3 random Colorless cards to add into your Hand. | |  |  |
+| 29 💀 Entomancer | 49/75 | Royal Gamble+ | Gain X. | | Fencing Manual | At the start of each combat, Forge X. |
+| 30 🔥 | 49/75 |  |  | |  |  |
+| 31 💀 Decimillipede | 21/75 | Glow+ | Gain X. Draw X cards. Next turn, draw X cards. | | Blood Vial | At the start of each combat, heal X HP. |
+| 32 🔥 | 21/75 |  |  | |  |  |
+| 33 👑 Knowledge Demon | 47/75 | Dying Star | Deal X damage to ALL enemies. ALL enemies lose X Strength this turn. | |  |  |
+| 34 🗿 | 69/75 |  |  | | Iron Club | Every X cards you play, draw 1 card. |
+| 35 ⚔️ | 29/61 |  |  | |  |  |
+| 36 ❓ | 29/61 | Comet | Deal X damage. Apply X Weak. Apply X Vulnerable. | |  |  |
+|  |  | Doubt | At the end of your turn, if this is in your Hand, gain X Weak. | |  |  |
+|  |  | Dying Star | Deal X damage to ALL enemies. ALL enemies lose X Strength this turn. | |  |  |
+| 37 ⚔️ | 31/61 |  |  | |  |  |
+| 38 ❓ | 31/61 | BEGONE!+ | Choose a card in your Hand to Transform into. | | Mini Regent | The first time you spend X each turn, gain X Strength. |
+| 39 💰 | 31/61 | Orbit+ | Every 4 energy you spend, gain energy. | |  |  |
+| 40 🎁 | 31/61 |  |  | | Horn Cleat | At the start of your 2nd turn, gain X Block. |
+| 41 ❓ | 28/61 |  |  | |  |  |
+| 42 🔥 | 46/61 |  |  | |  |  |
+| 43 💀 Flail Knight + Spectral Knight + Magi Knight | 42/61 |  |  | | Joss Paper | Every X times you Exhaust a card, draw X cards. |
+| 44 ⚔️ | 44/61 | Supermassive+ | Deal X damage. Deals X additional damage for each card you created this combat. | |  |  |
+| 45 💀 Soul Nexus | 46/61 | Spectrum Shift+ | At the start of your turn, add X random Colorless cards into your Hand. | | War Paint | Upon pickup, Upgrade X random Skills. |
+| 46 🔥 | 46/61 |  |  | |  |  |
+| 47 👑 Aeonglass | 28/61 |  |  | |  |  |
+| 48 👑 Test Subject | 13/61 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Defect</b>: 28 cards, 17 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×2, Dualcast, Zap | starter cards | | Cracked Core | starter relic |
+| 1 🗿 | 60/63 | Cold Snap+ | Deal X damage. Channel 1 Frost. | | Leafy Poultice | Upon pickup, Transform 1 of your Strikes and 1 of your Defends and lose X Max HP. |
+|  |  | Lightning Rod | Gain X Block. At the start of the next X turns, Channel 1 Lightning. | |  |  |
+| 2 ⚔️ | 60/63 | Hotfix+ | Gain X Focus this turn. | |  |  |
+| 3 ⚔️ | 57/63 | TURBO | Gain energy. Add a Void into your Discard Pile. | |  |  |
+| 4 ❓ | 57/63 | One for All | EVERYONE'S 0 1 energy Attacks deal X additional damage. | |  |  |
+| 5 ❓ | 56/63 | Go for the Eyes+ | Deal X damage. If the enemy intends to attack, apply X Weak. | |  |  |
+| 6 ⚔️ | 31/63 |  |  | |  |  |
+| 7 🔥 | 31/63 |  |  | |  |  |
+| 8 ❓ | 38/70 |  |  | | Strawberry | Upon pickup, raise your Max HP by X. |
+| 9 🎁 | 52/84 |  |  | | Mango | Upon pickup, raise your Max HP by X. |
+| 10 🔥 | 77/84 |  |  | |  |  |
+| 11 💀 Byrdonis | 52/84 | Beam Cell | Deal X damage. Apply X Vulnerable. | | Juzu Bracelet | Regular enemy combats are no longer encountered in ? rooms. |
+| 12 ❓ | 52/84 |  |  | |  |  |
+| 13 💀 Bygone Effigy | 43/84 |  |  | | Regal Pillow | Whenever you Rest, heal an additional X HP. |
+| 14 💰 | 43/84 |  |  | | Planisphere | Whenever you enter a ? room, heal X HP. |
+| 15 🔥 | 43/84 |  |  | |  |  |
+| 16 👑 Vantom | 22/84 | Multi-Cast+ | Evoke your rightmost Orb times. | |  |  |
+| 17 🗿 | 71/84 |  |  | | Golden Compass | Upon pickup, replace the Act 2 Map with a single special path. |
+| 18 ⚔️ | 52/84 | Iteration+ | The first time you draw a Status each turn, draw X cards. | |  |  |
+|  |  | Thunder+ | Whenever you Evoke Lightning, deal X damage to each enemy hit. | |  |  |
+| 19 ❓ | 57/84 |  |  | |  |  |
+| 20 🔥 | 57/84 |  |  | |  |  |
+| 21 ⚔️ | 57/84 | Subroutine+ | Whenever you play a Power, gain 1 energy. | |  |  |
+| 22 🔥 | 57/84 |  |  | |  |  |
+| 23 ❓ | 62/84 | Storm | Whenever you play a Power, Channel X Lightning. | |  |  |
+| 24 🎁 | 62/84 |  |  | | Reptile Trinket | Whenever you use a potion, gain X Strength this turn. |
+| 25 ❓ | 61/84 |  |  | |  |  |
+| 26 🎁 | 61/84 |  |  | | Whetstone | Upon pickup, Upgrade X random Attacks. |
+| 27 ❓ | 66/84 | Claw | Deal X damage. Increase the damage of ALL Claw cards by X this combat. | |  |  |
+| 28 💰 | 66/84 |  |  | | Toxic Egg | Whenever you add a Skill into your Deck, Upgrade it. |
+| 29 💀 Entomancer | 23/84 | Lightning Rod+ | Gain X Block. At the start of the next X turns, Channel 1 Lightning. | | Bronze Scales | Start each combat with X Thorns. |
+| 30 🔥 | 63/84 |  |  | |  |  |
+| 31 💀 Decimillipede | 16/84 | Hibernate+ | This turn, your Frost grants ALL allies Block. Channel X Frost. | | Vambrace | The first time you gain Block from a card each combat, double the amount gained. |
+| 32 🔥 | 56/84 |  |  | |  |  |
+| 33 👑 Knowledge Demon | 1/84 | Ice Lance | Deal X damage. Channel X Frost. | |  |  |
+| 34 🗿 | 67/84 |  |  | | Sai | At the start of your turn, gain X Block. |
+| 35 ⚔️ | 63/80 |  |  | |  |  |
+| 36 ❓ | 68/80 | Modded+ | Gain X Orb Slots. Draw X cards. Increase this card's cost by 1. | |  |  |
+|  |  | Tempest+ | Channel Lightning. | |  |  |
+| 37 ⚔️ | 68/80 | Glacier+ | Gain X Block. Channel 2 Frost. | |  |  |
+| 38 ❓ | 73/80 | TURBO+ | Gain energy. Add a Void into your Discard Pile. | |  |  |
+| 39 💰 | 73/80 |  |  | |  |  |
+| 40 🎁 | 73/80 |  |  | | Chandelier | At the start of your 3rd turn, gain energy. |
+| 41 ❓ | 71/80 |  |  | |  |  |
+| 42 🔥 | 71/80 |  |  | |  |  |
+| 43 💀 Flail Knight + Spectral Knight + Magi Knight | 70/80 | Hotfix+ | Gain X Focus this turn. | | Mercury Hourglass | At the start of your turn, deal X damage to ALL enemies. |
+| 44 ⚔️ | 70/80 | Energy Surge+ | ALL players gain energy. | |  |  |
+| 45 💀 Soul Nexus | 56/80 | Buffer | Prevent the next X times you would lose HP. | | Parrying Shield | If you end a turn with at least X Block, deal X damage to a random enemy. |
+| 46 🔥 | 80/80 |  |  | |  |  |
+| 47 👑 Aeonglass | 46/80 |  |  | |  |  |
+| 48 👑 Test Subject | 1/80 |  |  | |  |  |
+
+</details>
+
+</details>
 
 <details>
 <summary><b>#11 · 2026-08-23 · Chris Defect + Glenn Defect · 2h37m · seed E7TR063EY5N6</b></summary>
