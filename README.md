@@ -4,8 +4,8 @@
 - **Mode:** co-operative, Ascension 10 (every run; only A10 wins count)
 - **Goal:** win with all 25 ordered character combos (who plays what matters; mirrors are a single combo)
 - **Roster (5):** Ironclad, Silent, Defect, Necrobinder, Regent
-- **Progress:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 14 / 25 (56%)
-- **Last updated:** 2026-10-05
+- **Progress:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 15 / 25 (60%)
+- **Last updated:** 2026-10-27
 
 ## Combo matrix
 
@@ -14,35 +14,35 @@ Rows = Chris's character, columns = Glenn's character, so Chris-Defect + Glenn-I
 | Chris \ Glenn | Ironclad | Silent | Defect | Necrobinder | Regent |
 | ------------- | :------: | :----: | :----: | :---------: | :----: |
 | Ironclad      | ✅ | · | · | ✅ | · |
-| Silent        | · | ✅ | · | · | · |
+| Silent        | · | ✅ | · | ✅ | · |
 | Defect        | ✅ | · | ✅ | · | ✅ |
 | Necrobinder   | ✅ | · | ✅ | ✅ | ✅ |
 | Regent        | ✅ | ✅ | ✅ | · | ✅ |
 
-## Combos remaining (11 of 25)
+## Combos remaining (10 of 25)
 
-Same 11 combos read from each side: what Chris still needs when he plays a character, and what Glenn still needs when he plays one. Each side sums to 11.
+Same 10 combos read from each side: what Chris still needs when he plays a character, and what Glenn still needs when he plays one. Each side sums to 10.
 
 | Chris plays | still needs Glenn on | | Glenn plays | still needs Chris on |
 | ----------- | -------------------- | - | ----------- | -------------------- |
 | Ironclad (3) | Silent, Defect, Regent | | Ironclad (1) | Silent |
-| Silent (4) | Ironclad, Defect, Necrobinder, Regent | | Silent (3) | Ironclad, Defect, Necrobinder |
+| Silent (3) | Ironclad, Defect, Regent | | Silent (3) | Ironclad, Defect, Necrobinder |
 | Defect (2) | Silent, Necrobinder | | Defect (2) | Ironclad, Silent |
-| Necrobinder (1) | Silent | | Necrobinder (3) | Silent, Defect, Regent |
+| Necrobinder (1) | Silent | | Necrobinder (2) | Defect, Regent |
 | Regent (1) | Necrobinder | | Regent (2) | Ironclad, Silent |
 
 ## Stats
 
-- Wins logged: 14
-- Combos won: 14 / 25
+- Wins logged: 15
+- Combos won: 15 / 25
 - Per-character wins by player (a mirror win counts once for each player):
 
 | Character   | Chris | Glenn | Total |
 | ----------- | ----- | ----- | ----- |
 | Ironclad    | 2     | 4     | 6     |
-| Silent      | 1     | 2     | 3     |
+| Silent      | 2     | 2     | 4     |
 | Defect      | 3     | 3     | 6     |
-| Necrobinder | 4     | 2     | 6     |
+| Necrobinder | 4     | 3     | 7     |
 | Regent      | 4     | 3     | 7     |
 
 ## Win log (source of truth)
@@ -65,8 +65,156 @@ Date is the day the run was finished. Run time is the game's own clock where the
 | 12 | 2026-09-07 | Regent | Defect | 2h11m | |
 | 13 | 2026-09-08 | Regent | Silent | 1h42m | same sitting as #12, finished just after midnight |
 | 14 | 2026-10-05 | Necrobinder | Defect | 1h38m | second attempt at this combo; the first ended on floor 10 on 2026-10-01 |
+| 15 | 2026-10-27 | Silent | Necrobinder | 3h05m | second attempt at this combo; the first ended on floor 43 on 2026-10-07 |
 
 ## Run details
+
+<details>
+<summary><b>#15 · 2026-10-27 · Chris Silent + Glenn Necrobinder · 3h05m · seed U7J3B2D31JS0</b></summary>
+
+| Act | Elites (in order) | Boss |
+| - | - | - |
+| 1. Underdocks | Terror Eel, Phantasmal Gardener | Lagavulin Matriarch |
+| 2. Hive | Infested Prism, Decimillipede | Crusher + Rocket |
+| 3. Glory | Soul Nexus, Flail Knight + Spectral Knight + Magi Knight | Test Subject → Aeonglass |
+
+| | Chris (Silent) | Glenn (Necrobinder) |
+| - | - | - |
+| End HP | 24 / 70 | 14 / 66 |
+| Damage taken / healed | 157 / 181 | 284 / 298 |
+| Gold spent | 1020 | 0 |
+| Card rewards: picked / skipped | 19 / 8 | 21 / 6 |
+| Cards removed | 3 | 1 |
+| Deck size / relics | 32 / 21 | 34 / 18 |
+| Badges | Debuffer, Elite Killer, Ka-Ching! | Damage Leader, Elite Killer, Flawless |
+
+<details>
+<summary><b>Chris's Silent</b>: 32 cards, 21 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×5, Neutralize+, Strike ×2, Survivor | starter cards | | Ring of the Snake | starter relic |
+| 1 🗿 | 56/70 | Calculated Gamble+ | Discard your Hand, then draw that many cards. | | New Leaf | Upon pickup, Transform X cards. |
+| 2 ⚔️ | 56/70 | Cloak and Dagger | Gain X Block. Add X Shivs into your Hand. | |  |  |
+| 3 ⚔️ | 55/70 | Piercing Wail | ALL enemies lose X Strength this turn. | |  |  |
+| 4 ❓ | 50/70 | Fisticuffs+ | Deal X damage. Gain Block equal to damage dealt. | |  |  |
+| 5 ⚔️ | 50/70 | Backflip | Gain X Block. Draw 2 cards. | |  |  |
+| 6 ⚔️ | 46/70 | Skewer | Deal X damage X times. | |  |  |
+| 7 ❓ | 46/70 |  |  | |  |  |
+| 8 🔥 | 46/70 |  |  | |  |  |
+| 9 🎁 | 46/70 |  |  | | Razor Tooth | Every time you play an Attack or Skill, Upgrade it for the remainder of combat. |
+| 10 🔥 | 46/70 |  |  | |  |  |
+| 11 ⚔️ | 44/70 | Anticipate | Gain X Dexterity this turn. | |  |  |
+| 12 💀 Terror Eel | 39/70 | Accelerant+ | Poison is triggered X additional times. | | Centennial Puzzle | The first time you lose HP each combat, draw X cards. |
+| 13 ❓ | 39/70 | Mirage+ | Gain Block equal to Poison on ALL enemies. | |  |  |
+| 14 💀 Phantasmal Gardener | 37/70 |  |  | | The Courier | The merchant no longer runs out of cards, relics, or potions and his prices are reduced by X%. |
+| 15 🔥 | 37/70 |  |  | |  |  |
+| 16 👑 Lagavulin Matriarch | 21/70 | Well-Laid Plans+ | At the end of your turn, you no longer discard your Hand. | |  |  |
+| 17 🗿 | 60/70 |  |  | | Toy Box | Upon pickup, obtain X Wax Relics. Every X combats, your left-most Wax Relic will melt away. |
+|  |  |  |  | | Strike Dummy | Cards containing “Strike” deal X additional damage. |
+|  |  |  |  | | Juzu Bracelet | Regular enemy combats are no longer encountered in ? rooms. |
+|  |  |  |  | | Parrying Shield | If you end a turn with at least X Block, deal X damage to a random enemy. |
+|  |  |  |  | | White Beast Statue | Potions always appear in combat rewards. |
+|  |  |  |  | | Gambling Chip | At the start of each combat, discard any number of cards then draw that many. |
+| 18 ⚔️ | 60/70 | Piercing Wail | ALL enemies lose X Strength this turn. | |  |  |
+| 19 ⚔️ | 52/70 | Noxious Fumes+ | At the start of your turn, apply X Poison to ALL enemies. | |  |  |
+|  |  | Prepared | Draw X cards. Discard X cards. | |  |  |
+| 20 ❓ | 46/70 |  |  | |  |  |
+| 21 ⚔️ | 41/70 | Prepared | Draw X cards. Discard X cards. | |  |  |
+| 22 ⚔️ | 35/70 | Untouchable | Gain X Block. | |  |  |
+| 23 🔥 | 35/70 |  |  | |  |  |
+| 24 🎁 | 35/70 |  |  | | Lucky Fysh | Whenever you add a card to your Deck, gain X Gold. |
+| 25 ⚔️ | 18/70 |  |  | |  |  |
+| 26 💀 Infested Prism | 9/70 | Anticipate+ | Gain X Dexterity this turn. | | Meat on the Bone | If your HP is at or below X% at the end of combat, heal X HP. |
+| 27 🔥 | 30/70 |  |  | |  |  |
+| 28 ❓ | 30/70 |  |  | |  |  |
+| 29 💀 Decimillipede | 34/70 |  |  | | Meal Ticket | Whenever you enter a shop room, heal X HP. |
+| 30 🔥 | 34/70 |  |  | |  |  |
+| 31 👑 Crusher + Rocket | 42/70 | Tools of the Trade | At the start of your turn, draw 1 card and discard 1 card. | |  |  |
+| 32 🗿 | 64/70 |  |  | | Crossbow | At the start of your turn, add a random Attack into your Hand. It's free to play this turn. |
+| 33 ⚔️ | 64/70 | Untouchable | Gain X Block. | |  |  |
+| 34 ❓ | 64/70 |  |  | |  |  |
+| 35 ❓ | 70/70 | Hidden Gem+ | A random card without Replay in your Draw Pile gains Replay X. | | Vexing Puzzlebox | At the start of each combat, add a random card into your Hand. It's free to play this turn. |
+|  |  |  |  | | Bag of Preparation | At the start of each combat, draw X additional cards. |
+| 36 ⚔️ | 70/70 |  |  | |  |  |
+| 37 ❓ | 70/70 |  |  | |  |  |
+| 38 🎁 | 70/70 |  |  | | Tiny Mailbox | Whenever you Rest, procure 2 random Potions. |
+| 39 💀 Soul Nexus | 69/70 | Leg Sweep+ | Apply X Weak. Gain X Block. | | Snecko Skull | Whenever you apply Poison, apply an additional X Poison. |
+| 40 💰 | 70/70 | Catastrophe | Play X random cards from your Draw Pile. | | Kusarigama | Every time you play X Attacks in a single turn, deal X damage to a random enemy. |
+| 41 🔥 | 70/70 |  |  | |  |  |
+| 42 💀 Flail Knight + Spectral Knight + Magi Knight | 70/70 | Snakebite | Apply X Poison. | | Reptile Trinket | Whenever you use a potion, gain X Strength this turn. |
+| 43 ⚔️ | 70/70 |  |  | |  |  |
+| 44 🔥 | 70/70 |  |  | |  |  |
+| 45 👑 Test Subject | 39/70 |  |  | |  |  |
+| 46 👑 Aeonglass | 24/70 |  |  | |  |  |
+
+</details>
+
+<details>
+<summary><b>Glenn's Necrobinder</b>: 34 cards, 18 relics, floor by floor</summary>
+
+🗿 Ancient · ⚔️ enemy · 💀 elite · ❓ unknown · 🔥 rest site · 💰 shop · 🎁 treasure · 👑 boss
+
+| Floor | HP | Card | Effect | | Relic | Effect |
+| - | - | - | - | - | - | - |
+| start | | Ascender's Bane, Defend ×5, Strike ×5 | starter cards | | - | starter relic |
+| 1 🗿 | 52/66 | Bodyguard | Summon X. | | Bound Phylactery | At the start of your turn, Summon X. |
+|  |  | Unleash | Osty deals X damage. Deals additional damage equal to Osty's current HP. | | Large Capsule | Upon pickup, obtain X random Relics. Add an additional Strike and Defend to your Deck. |
+|  |  |  |  | | Intimidating Helmet | Whenever you play a card that costs energy or more, gain X Block. |
+|  |  |  |  | | Lantern | Start each combat with an additional energy. |
+| 2 ⚔️ | 49/66 | Sow | Deal X damage to ALL enemies. | |  |  |
+| 3 ⚔️ | 43/66 | Enfeebling Touch | Enemy loses X Strength this turn. | |  |  |
+| 4 ❓ | 38/66 |  |  | |  |  |
+| 5 ⚔️ | 38/66 | Fear | Deal X damage. Apply X Vulnerable. | |  |  |
+| 6 ⚔️ | 28/66 | Sleight of Flesh | Whenever you apply a debuff to an enemy, they take X damage. | |  |  |
+| 7 ❓ | 28/66 | Negative Pulse+ | Gain X Block. Apply X Doom to ALL enemies. | |  |  |
+| 8 🔥 | 47/66 |  |  | |  |  |
+| 9 🎁 | 47/66 |  |  | | Oddly Smooth Stone | Start each combat with X Dexterity. |
+| 10 🔥 | 47/66 |  |  | |  |  |
+| 11 ⚔️ | 44/66 |  |  | |  |  |
+| 12 💀 Terror Eel | 23/66 | Pull from Below | Deal X damage for each Ethereal card played this combat. | | Regal Pillow | Whenever you Rest, heal an additional X HP. |
+| 13 ❓ | 21/66 | Sacrifice | If Osty is alive, he dies and you gain Block equal to triple his Max HP. | |  |  |
+| 14 💀 Phantasmal Gardener | 15/66 | Lethality+ | The first Attack each turn deals X% additional damage. | | Sparkling Rouge | At the start of your 3rd turn, gain X Strength and X Dexterity. |
+| 15 🔥 | 49/66 |  |  | |  |  |
+| 16 👑 Lagavulin Matriarch | 49/66 | End of Days | Apply X Doom to ALL enemies. Kill enemies with at least as much Doom as HP. | |  |  |
+| 17 🗿 | 62/66 |  |  | | Toasty Mittens | At the start of your turn, Exhaust 1 card from your Hand and gain X Strength. |
+| 18 ⚔️ | 46/66 | Pagestorm+ | Whenever you draw an Ethereal card, draw X cards. | |  |  |
+| 19 ⚔️ | 44/66 | Deathbringer | Apply X Doom and X Weak to ALL enemies. | |  |  |
+|  |  | Prowess+ | Gain X Strength. Gain X Dexterity. | |  |  |
+| 20 ❓ | 38/66 |  |  | |  |  |
+| 21 ⚔️ | 26/66 | Borrowed Time | Gain energy. Cards cost an additional energy this turn. | |  |  |
+| 22 ⚔️ | 22/66 | Delay+ | Gain X Block. Next turn, gain energy. | |  |  |
+| 23 🔥 | 56/66 |  |  | |  |  |
+| 24 🎁 | 56/66 |  |  | | Anchor | Start each combat with X Block. |
+| 25 ⚔️ | 40/66 |  |  | |  |  |
+| 26 💀 Infested Prism | 29/66 |  |  | | Book of Five Rings | Every X cards you add to your Deck, heal X HP. |
+| 27 🔥 | 63/66 |  |  | |  |  |
+| 28 ❓ | 63/66 |  |  | |  |  |
+| 29 💀 Decimillipede | 35/66 | Debilitate+ | Deal X damage. Vulnerable and Weak are twice as effective against the enemy for the next X turns. | | Red Mask | At the start of each combat, apply X Weak to ALL enemies. |
+| 30 🔥 | 66/66 |  |  | |  |  |
+| 31 👑 Crusher + Rocket | 20/66 | Spirit of Ash | Whenever you play an Ethereal card, gain X Block. | |  |  |
+| 32 🗿 | 56/66 |  |  | | Throwing Axe | The first card you play each combat is played an extra time. |
+| 33 ⚔️ | 35/66 |  |  | |  |  |
+| 34 ❓ | 35/66 |  |  | |  |  |
+| 35 ❓ | 35/66 |  |  | | Candelabra | At the start of your 2nd turn, gain energy. |
+|  |  |  |  | | Happy Flower | Every X turns, gain energy. |
+| 36 ⚔️ | 35/66 |  |  | |  |  |
+| 37 ❓ | 26/66 | Melancholy | Gain X Block. Reduce this card's cost by energy whenever ANYONE dies. | |  |  |
+| 38 🎁 | 26/66 |  |  | | Blood Vial | At the start of each combat, heal X HP. |
+| 39 💀 Soul Nexus | 28/66 | Drain Power+ | Deal X damage. Upgrade X random cards in your Discard Pile. | | Nunchaku | Every time you play X Attacks, gain energy. |
+| 40 💰 | 48/66 | Defy | Gain X Block. Apply X Weak. | | Punch Dagger | Upon pickup, Enchant an Attack with Momentum X. |
+| 41 🔥 | 48/66 |  |  | |  |  |
+| 42 💀 Flail Knight + Spectral Knight + Magi Knight | 50/66 | Melancholy | Gain X Block. Reduce this card's cost by energy whenever ANYONE dies. | | Kusarigama | Every time you play X Attacks in a single turn, deal X damage to a random enemy. |
+| 43 ⚔️ | 49/66 | Veilpiercer+ | Deal X damage. The next Ethereal card you play costs 0 1 energy. | |  |  |
+| 44 🔥 | 66/66 |  |  | |  |  |
+| 45 👑 Test Subject | 49/66 |  |  | |  |  |
+| 46 👑 Aeonglass | 14/66 |  |  | |  |  |
+
+</details>
+
+</details>
 
 <details>
 <summary><b>#14 · 2026-10-05 · Chris Necrobinder + Glenn Defect · 1h38m · seed M7WSE0TU4SKW</b></summary>
